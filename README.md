@@ -1,41 +1,53 @@
 # Theta Security System  
 
-**Theta Security System** is an innovative college thesis project designed to enhance security measures using advanced technology. This system was developed by:  
+**Theta Security System** is an innovative low-cost security solution developed as a college thesis project. This system combines affordability with advanced technology to provide robust and efficient security. Developed by:  
 - **Charles Adrian Cabontocan**  
 - **Carlo Jan Harry Añonuevo**  
 - **Mar-con Prince Owen Difuntorum**  
 
 ## 📖 Overview  
-The Theta Security System is a cutting-edge solution aimed at providing robust and efficient security for various applications. It incorporates modern tools and technologies to address the challenges of security threats in both residential and commercial spaces.  
+The Theta Security System utilizes cost-effective hardware and open-source software to address the need for affordable yet reliable security systems. Built around the **Orange Pi Zero 3**, it leverages computer vision and machine learning techniques for smart intrusion detection and facial recognition.
 
 ## 🌟 Features  
-- **Smart Intrusion Detection**: Uses AI-driven algorithms to detect and alert users of unauthorized access.  
-- **Face Recognition Technology**: Enables secure access control through facial authentication.  
-- **Customizable Notifications**: Users can configure alerts and notifications based on their preferences.  
-- **Scalable Design**: Built to adapt and scale for larger installations.  
+- **Affordable Hardware**: Built using the **Orange Pi Zero 3**, a low-cost yet powerful alternative to traditional systems.  
+- **Facial Recognition**: Implements **Local Binary Patterns Histograms (LBPH)** for accurate face recognition.  
+- **Intrusion Detection**: Utilizes **Haar Cascade Classifiers** for real-time detection of unauthorized access.  
+- **Open-Source Frameworks**: Powered by **OpenCV** for image processing and machine learning tasks.  
+- **Lightweight and Scalable**: Designed for small-scale deployments with options for scaling to larger setups.  
 
 ## 🛠️ Technologies Used  
-- **AI & Machine Learning**: For face recognition and intrusion detection.  
-- **IoT Integration**: Supports smart home and smart building setups.  
-- **Database Management**: Securely stores user profiles and activity logs.  
+- **Hardware**: Orange Pi Zero 3  
+- **Facial Recognition**: LBPH (Local Binary Patterns Histograms)  
+- **Intrusion Detection**: Haar Cascade Classifier  
+- **Software Libraries**: OpenCV (for computer vision tasks)  
+- **Programming Languages**: Python  
 
 ## 🚀 How It Works  
-1. **Registration**: Users register their profiles and set access parameters.  
-2. **Monitoring**: The system continuously monitors the environment using cameras and sensors.  
-3. **Detection**: AI algorithms analyze data in real-time to identify anomalies or unauthorized access.  
-4. **Alerting**: Sends instant notifications to users via email, SMS, or app-based alerts.  
+1. **Setup and Registration**: Users register facial data into the system using a webcam or other camera input.  
+2. **Monitoring**: The system continuously captures and processes video streams to detect faces and movements.  
+3. **Recognition and Alerting**:  
+   - Known faces: System allows access.  
+   - Unknown faces or anomalies: Triggers an alert via the configured notification channel.  
+4. **Real-Time Notifications**: Alerts are sent instantly via email or SMS.  
 
 ## 💡 Use Cases  
-- Residential security systems  
-- Office and corporate building access control  
-- Secure storage facilities  
-- Educational institutions  
+- Home security systems  
+- Small offices or retail spaces  
+- Low-cost security solutions for rural or underserved areas  
 
 ## 👨‍💻 Developers  
-The project was conceptualized, designed, and implemented by a dedicated team of students from [Insert College/University Name].  
+This project was developed by a team of students from FEU Institute of Technology as part of their thesis.  
+
+## ⚙️ Hardware Setup  
+- **Orange Pi Zero 3** (or equivalent low-cost single-board computer)  
+- USB or built-in camera for video input  
+- Optional: External storage for logs or backups  
 
 ## 📋 License  
-This project is licensed under [Insert License Name] – feel free to contribute and improve!  
+This project is licensed under [Insert License Name] – contributions are welcome!  
 
 ## 🤝 Acknowledgments  
-We extend our gratitude to our professors, mentors, and classmates for their guidance and support throughout the development of this project.  
+We extend our gratitude to our mentors, professors, and peers who provided guidance and support throughout this project.  
+
+---
+
