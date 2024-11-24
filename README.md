@@ -35,16 +35,10 @@ The Theta Security System utilizes cost-effective hardware and open-source softw
 - Small offices or retail spaces  
 - Low-cost security solutions for rural or underserved areas  
 
-## 👨‍💻 Developers  
-This project was developed by a team of students from FEU Institute of Technology as part of their thesis.  
-
 ## ⚙️ Hardware Setup  
 - **Orange Pi Zero 3** (or equivalent low-cost single-board computer)  
 - USB or built-in camera for video input  
 - Optional: External storage for logs or backups  
-
-## 📋 License  
-This project is licensed under [Insert License Name] – contributions are welcome!  
 
 ## 🤝 Acknowledgments  
 We extend our gratitude to our mentors, professors, and peers who provided guidance and support throughout this project.  
