@@ -1,0 +1,96 @@
+[19:18]: Motion Detected
+[19:18]: Face Detected: Unknown
+[19:18]: Email sent with image attached.
+[19:18]: Email sent with image attached.
+[19:20]: Motion Detected
+[19:20]: Face Detected: Charles
+[19:20]: Face Detected: Unknown
+[19:20]: Email sent with image attached.
+[19:23]: Motion Detected
+[19:24]: Email sent with image attached.
+[19:28]: Motion Detected
+[19:28]: Email sent with image attached.
+[19:28]: Face Detected: Charles
+[19:28]: Motion Detected
+[19:28]: Email sent with image attached.
+[19:28]: Face Detected: Charles
+[19:29]: Face Detected: Unknown
+[19:29]: Motion Detected
+[19:29]: Motion Detected
+[19:29]: Face Detected: Unknown
+[19:29]: Email sent with image attached.
+[19:29]: Email sent with image attached.
+[19:29]: Motion Detected
+[19:29]: Face Detected: Unknown
+[19:29]: Motion Detected
+[19:29]: Email sent with image attached.
+[19:29]: Motion Detected
+[19:29]: Email sent with image attached.
+[19:30]: Motion Detected
+[19:30]: Email sent with image attached.
+[19:30]: Motion Detected
+[19:30]: Email sent with image attached.
+[19:30]: Face Detected: Charles
+[19:30]: Motion Detected
+[19:30]: Face Detected: Unknown
+[19:30]: Face Detected: Charles
+[19:30]: Email sent with image attached.
+[19:33]: Motion Detected
+[19:33]: Motion Detected
+[19:33]: Email sent with image attached.
+[19:37]: Motion Detected
+[19:37]: Email sent with image attached.
+[19:37]: Motion Detected
+[19:37]: Email sent with image attached.
+[19:38]: Motion Detected
+[19:38]: Email sent with image attached.
+[19:38]: Face Detected: Charles
+[19:38]: Motion Detected
+[19:38]: Face Detected: Unknown
+[19:38]: Motion Detected
+[19:38]: Email sent with image attached.
+[19:40]: Motion Detected
+[19:40]: Email sent with image attached.
+[19:42]: Motion Detected
+[19:42]: Face Detected: Charles
+[19:42]: Email sent with image attached.
+[19:49]: Motion Detected
+[19:49]: Face Detected: Charles
+[19:49]: Face Detected: Unknown
+[19:49]: Email sent with image attached.
+[19:50]: Motion Detected
+[19:50]: Face Detected: Charles
+[19:50]: Face Detected: Unknown
+[19:50]: Email sent with image attached.
+[19:50]: Motion Detected
+[19:50]: Email sent with image attached.
+[19:56]: Motion Detected
+[19:56]: Face Detected: Unknown
+[19:56]: Email sent with image attached.
+[19:58]: Motion Detected
+[19:58]: Face Detected: Charles
+[19:58]: Email sent with image attached.
+[19:58]: Motion Detected
+[19:58]: Face Detected: Unknown
+[19:58]: Email sent with image attached.
+[19:58]: Email sent with image attached.
+[19:58]: Email sent with image attached.
+[19:58]: Email sent with image attached.
+[19:59]: Motion Detected
+[19:59]: Face Detected: Unknown
+[19:59]: Email sent with image attached.
+[19:59]: Email sent with image attached.
+[19:59]: Email sent with image attached.
+[20:01]: Motion Detected
+[20:01]: Face Detected: Unknown
+[20:01]: Email sent with image attached.
+[20:01]: Email sent with image attached.
+[20:01]: Email sent with image attached.
+[20:01]: Email sent with image attached.
+[20:01]: Email sent with image attached.
+[20:04]: Motion Detected
+[20:04]: Face Detected: Charles
+[20:04]: Email sent with image attached.
+[20:37]: Motion Detected
+[20:37]: Face Detected: Unknown
+[20:37]: Email sent with image attached.

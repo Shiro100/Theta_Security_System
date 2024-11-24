@@ -1,0 +1,30 @@
+[19:18]: Trainer.yml not found, starting without pre-trained recognizer
+[19:18]: Trainer.yml not found, starting without pre-trained recognizer
+[19:18]: Motion Detected
+[19:18]: Email sent with image attached.
+[19:18]: Motion Detected
+[19:19]: Email sent with image attached.
+[19:19]: Motion Detected
+[19:19]: Email sent with image attached.
+[19:19]: Motion Detected
+[19:19]: Email sent with image attached.
+[19:19]: Motion Detected
+[19:19]: Email sent with image attached.
+[19:19]: Motion Detected
+[19:19]: Email sent with image attached.
+[19:19]: Motion Detected
+[19:19]: Email sent with image attached.
+[19:19]: Motion Detected
+[19:20]: Email sent with image attached.
+[19:20]: Motion Detected
+[19:20]: Email sent with image attached.
+[19:20]: Motion Detected
+[19:20]: Email sent with image attached.
+[19:20]: Motion Detected
+[19:20]: Email sent with image attached.
+[19:20]: Motion Detected
+[19:20]: Email sent with image attached.
+[19:20]: Motion Detected
+[19:20]: Email sent with image attached.
+[19:20]: Motion Detected
+[19:21]: Email sent with image attached.

@@ -1,0 +1,8 @@
+[13:23]: id_name.txt not found, starting with an empty id-name dictionary
+[13:23]: Trainer.yml not found, starting without pre-trained recognizer
+[13:23]: id_name.txt not found, starting with an empty id-name dictionary
+[13:23]: Trainer.yml not found, starting without pre-trained recognizer
+[13:28]: Trainer.yml not found, starting without pre-trained recognizer
+[13:29]: Trainer.yml not found, starting without pre-trained recognizer
+[13:30]: Trainer.yml not found, starting without pre-trained recognizer
+[13:30]: Trainer.yml not found, starting without pre-trained recognizer

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Security System Dashboard</title>
+</head>
+<body>
+    <h1>Security System Dashboard</h1>
+    <p>Registered Faces: {{ registered_faces_count }}</p>
+    <ul>
+        {% for id, name in registered_faces %}
+            <li>{{ id }}: {{ name }}</li>
+        {% endfor %}
+    </ul>
+    
+    <h2>Manage Receiver Emails</h2>
+    <form action="/set_email" method="POST">
+        <label for="id">ID:</label>
+        <input type="number" id="id" name="id" required>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <button type="submit">Set Email</button>
+    </form>
+    
+    <h2>Registered Emails</h2>
+    <ul>
+        {% for id, email in registered_emails %}
+            <li>{{ id }}: {{ email }}</li>
+        {% endfor %}
+    </ul>
+
+    <h2>Collect Faces</h2>
+    <form action="/collect_faces" method="POST">
+        <label for="id">ID:</label>
+        <input type="number" id="id" name="id" required>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Collect Faces</button>
+    </form>
+
+    <h2>Train Faces</h2>
+    <form action="/train_faces" method="POST">
+        <button type="submit">Train Faces</button>
+    </form>
+
+    <h2>Delete User</h2>
+    <form action="/delete_user" method="POST">
+        <label for="delete_id">ID:</label>
+        <input type="number" id="delete_id" name="id" required>
+        <button type="submit">Delete User</button>
+    </form>
+
+    <h2>Logs</h2>
+    <div id="logs">
+        <!-- Logs will be dynamically updated here -->
+    </div>
+
+    <h2>Video Feed</h2>
+    <img src="{{ url_for('video_feed') }}" alt="Video Feed">
+</body>
+</html>

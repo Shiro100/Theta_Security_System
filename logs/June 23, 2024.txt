@@ -1,0 +1,23 @@
+[13:35]: Face Detected: Unknown
+[13:36]: Face Detected: Charles
+[13:36]: Face Detected: Unknown
+[13:36]: Email sent with image attached.
+[13:36]: Email sent with image attached.
+[13:36]: Email not sent to avoid spamming
+[13:36]: Face Detected: Charles
+[13:36]: Email not sent to avoid spamming
+[13:36]: Face Detected: Unknown
+[13:36]: Email sent with image attached.
+[13:36]: Email not sent to avoid spamming
+[13:36]: Face Detected: Charles
+[13:36]: Email not sent to avoid spamming
+[13:36]: Face Detected: Unknown
+[13:36]: Email sent with image attached.
+[13:36]: Email sent with image attached.
+[13:36]: Face Detected: Unknown
+[13:36]: Face Detected: Charles
+[13:36]: Email sent with image attached.
+[13:36]: Email not sent to avoid spamming
+[13:36]: Deleted user ID: 1, Name: Charles
+[13:36]: Trainer.yml deleted
+[13:36]: Insufficient data for training. Need at least two samples.

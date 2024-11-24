@@ -1,0 +1,17 @@
+[15:40]: Face Detected: Charles
+[15:40]: Face Detected: Unknown
+[15:41]: Email sent with image attached.
+[15:41]: Email sent with image attached.
+[15:41]: Email not sent to avoid spamming
+[15:41]: Face Detected: Unknown
+[15:41]: Face Detected: Charles
+[15:41]: Email not sent to avoid spamming
+[15:41]: Face Detected: Unknown
+[15:41]: Email sent with image attached.
+[15:41]: Email not sent to avoid spamming
+[15:41]: Face Detected: Charles
+[15:41]: Email not sent to avoid spamming
+[15:41]: Email sent with image attached.
+[15:41]: Email not sent to avoid spamming
+[15:41]: Email not sent to avoid spamming
+[15:41]: Email not sent to avoid spamming

@@ -1,0 +1,764 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+header {
+  background-color: rgba(70, 85, 79, 0.5);
+  color: rgb(255, 255, 255);
+  padding: 20px 60px;
+  margin-left: 20px;
+  text-align: left;
+  font-size: 1.5rem;
+}
+
+.sidebar {
+  height: 100%;
+  width: 60px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #2f3640;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.sidebar a {
+  display: block;
+  padding: 10px 15px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+.sidebar a:hover {
+  background-color: #57606f;
+  border-radius: 10px;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+  margin-left: 70px;
+}
+
+.help-container {
+  display: flex;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+  margin-left: -25px;
+  margin-right: 30px;
+  width: 200px;
+  background-color: rgb(240, 240, 240);
+  padding: 10px;
+}
+
+.button-container button {
+  border: 1px solid rgb(255, 255, 255);
+  height: 60px;
+  width: 180px;
+  margin: 5px 0; /* Add vertical margin */
+  font-size: 17px;
+}
+
+.divider {
+  border-left: 1px solid lightgray;
+  margin-top: 15px;
+  height: 630px;
+  margin-right: 20px;
+  align-self: stretch;
+}
+
+.info-container {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  min-height: 150px; /* Set a fixed height */
+}
+
+.info-container h2 {
+  margin-top: 10px;
+}
+
+.info-container a {
+  color: #007bff;
+  text-decoration: none;
+  margin: 5px 0;
+}
+
+.info-container a:hover {
+  text-decoration: underline;
+}
+
+.info-container form {
+  display: flex;
+  flex-direction: column;
+}
+
+.info-container label {
+  margin: 5px 0;
+}
+
+.info-container input {
+  padding: 10px;
+  margin: 5px 0;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.info-container textarea {
+  padding: 10px;
+  margin: 5px 0;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  height: 150px; /* Fixed height */
+  resize: none; /* Disable resizing */
+}
+
+.adjustable-button {
+  width: 100px;
+  height: 40px;
+  margin-top: 10px;
+  background-color: lightgray;
+  color: black;
+  border: none;
+  border-radius: 15px;
+}
+
+.adjustable-button:hover {
+  background-color: #d3d3d3;
+}
+
+@media (min-width: 768px) {
+  .adjustable-button {
+    width: 120px;
+    height: 45px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .adjustable-button {
+    width: 150px;
+    height: 50px;
+  }
+}
+
+.contacts-container {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.registered-faces, 
+.unknown-faces {
+  border: 1px solid #dcdde1;
+  padding: 20px;
+  width: 45%;
+  background-color: #f5f6fa;
+  border-radius: 10px;
+}
+
+h2 {
+  border-bottom: 1px solid #dcdde1;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+h3 {
+  border-bottom: 3px solid #000000;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+button {
+  display: block;
+  margin-top: 20px;
+}
+
+.btn {
+  width: 100%;
+}
+
+.profile-pic-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px; /* Add some space below the picture container */
+}
+
+.profile-pic.circle {
+  width: 150px; /* Adjust the size as needed */
+  height: 150px; /* Adjust the size as needed */
+  border-radius: 50%; /* This makes the image circular */
+  object-fit: cover; /* Ensures the image covers the frame without distortion */
+  border: 2px solid #ddd; /* Optional: add a border */
+  padding: 3px; /* Optional: add some padding */
+}
+
+.profile-pic-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-info {
+  text-align: center; /* Center align the profile information */
+}
+
+.profile-info h2 {
+  margin-bottom: 20px; /* Add some space below the heading */
+}
+
+.profile-info button {
+  display: block;
+  margin: 10px auto; /* Center the buttons and add margin */
+  padding: 10px 20px; /* Add padding for better clickability */
+  font-size: 16px; /* Font size for the buttons */
+  color: black; /* Text color */
+  background: none; /* Button background color */
+  border: none; /* Remove default border */
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: background-color 0.3s; /* Smooth background color transition */
+}
+
+.profile-info button:hover {
+  background: none; 
+  font-weight: bold;
+}
+
+.profile-info button:focus {
+  outline: none; /* Remove outline on focus */
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.5); /* Add a focus ring */
+}
+
+#live-logs-container {
+  height: 500px; /* Adjust the height as needed */
+  overflow-y: scroll;
+  border: 1px solid #ccc; /* Optional: Add a border for better visualization */
+  padding: 10px; /* Optional: Add padding */
+  border-radius: 10px;
+}
+#log-list {
+  list-style-type: none; /* Remove bullet points */
+  padding: 0; /* Remove default padding */
+  margin: 0; /* Remove default margin */
+}
+#log-list li {
+  padding: 5px 0; /* Add padding for each log entry */
+}
+
+.fullscreen{
+  border-radius: 5px;
+  width: 100px;
+  font-size: 15px;
+}
+
+.time-display {
+  font-size: 18px;
+  color: #333; /* Text color */
+  font-family: Arial, sans-serif; /* Font family */
+  margin-bottom: 10px; /* Bottom margin */
+  text-align: center; /* Align center */
+}
+
+.dashboard-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start; /* Align items vertically at the start */
+}
+
+#live-surveillance,
+#live-logs {
+  width: 48%; /* Adjust width as needed */
+}
+
+#live-logs {
+  margin-left: 4%; /* Adjust margin for spacing */
+}
+
+.time-display {
+  font-size: 35px;
+}
+  
+.logs-container .divider,
+.help-container .divider {
+  width: 1px;
+  height: 100%;
+  background-color: #ccc;
+  margin-right: 20px; /* Adjust the margin as needed */
+}
+
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.content-row {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.time-display {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#live-surveillance {
+  flex: 1;
+  margin: 0 10px;
+  max-width: 600px; /* Adjust the max-width as needed */
+}
+
+#live-logs {
+  flex: 1;
+  margin: 0 10px;
+}
+
+.help-container,
+.logs-container {
+  display: flex;
+  align-items: flex-start;
+  margin: 20px;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.button-container button {
+  margin-bottom: 10px;
+}
+
+.divider {
+  width: 100%;
+  height: 1px;
+  background-color: #ccc;
+  margin-bottom: 20px;
+}
+
+.info-container {
+  width: 100%;
+}
+
+.info-container {
+  height: 600px; /* Adjust the height as needed */
+  overflow: auto; /* Add scrollbars when content overflows */
+}
+
+/* Consolidated divider style */
+.divider {
+  width: 1px;
+  height: 100%;
+  background-color: #ccc;
+  margin-right: 20px; /* Adjust the margin as needed */
+}
+
+/* Apply styles to the divider in the logs and help containers */
+.logs-container .divider,
+.help-container .divider {
+  margin-right: 0; /* Remove right margin */
+}
+
+/* Center labels above input fields */
+.change-password-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-group {
+  margin-bottom: 20px; /* Add some spacing between input fields */
+}
+
+.form-label {
+  text-align: left;
+  width: 100%; /* Make sure the label takes up the full width */
+}
+
+/* Style for form labels */
+.form-label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* Style for form input fields */
+.form-control {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+/* Style for form group */
+.form-group {
+  margin-bottom: 20px;
+}
+
+.border-radius {
+  border-radius: 15px; /* Adjust the value to your preference */
+  overflow: hidden; /* Ensures the corners are properly clipped */
+}
+
+body {
+  background-color: #f0f0f0;
+  color: #2c3e50;
+  font-family: Arial, sans-serif;
+}
+
+.dashboard-container, .contacts-container {
+  background-color: #ecf0f1;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2, h3 {
+  color: #2c3e50;
+}
+
+button {
+  background-color: #16a085;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 10px 0;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button.fullscreen {
+  background-color: #16a085;
+  width: 120px;
+}
+
+button.btn-secondary {
+  background-color: #7f8c8d;
+}
+
+button.btn-success {
+  background-color: #e67e22;
+}
+
+button.btn-danger {
+  background-color: #e74c3c;
+}
+
+.border-radius {
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+input[type="text"], input[type="number"] {
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #bdc3c7;
+  border-radius: 5px;
+  width: calc(100% - 22px);
+}
+
+form {
+  background-color: #ecf0f1;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-top:10px;
+}
+
+.content-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Style for change email container */
+.change-email-container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+ 
+}
+
+/* Form group styling */
+.change-email-container .form-group {
+  margin-bottom: 15px;
+}
+
+/* Label styling */
+.change-email-container .form-label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+/* Input field styling */
+.change-email-container .form-control {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+/* Submit button styling */
+.change-email-container .btn {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.change-email-container .btn:hover {
+  background-color: #0056b3;
+}
+
+.getting-started-images {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.getting-started-img {
+  width: 1100px;
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  align-self: center;
+}
+
+.navigation-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; /* Align items vertically in the button container */
+  margin-top: 10px; /* Adjust the spacing between image and buttons */
+}
+
+.prvbtn,
+.nxtbtn {
+  padding: 10px 10px; /* Adjust button padding */
+  font-size: 14px; /* Adjust button font size */
+}
+
+/* Optional: Adjust button colors */
+.prvbtn {
+  background-color:#16a085;
+}
+
+.nxtbtn {
+  background-color: #16a085;
+}
+
+/* Centering and styling form containers */
+.form-container {
+  max-width: 400px; /* Adjust the maximum width as per your design */
+  margin: 20px auto; /* Center the container and provide margin */
+  padding: 20px;
+  
+  border-radius: 5px;
+  
+}
+
+/* Styles for form labels */
+.form-label {
+  margin-bottom: 5px;
+}
+
+/* Styles for form inputs */
+.form-control {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+/* Styles for form buttons */
+.form-btn {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.form-btn:hover {
+  background-color: #0056b3;
+}
+
+.change-password-container,
+.delete-email-container,
+.add-email-container {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.change-password-container h2,
+.delete-email-container h2,
+.add-email-container h2 {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.change-password-container form,
+.delete-email-container form,
+.add-email-container form {
+  margin-top: 10px;
+}
+
+.change-password-container .form-group,
+.delete-email-container .form-group,
+.add-email-container .form-group {
+  margin-bottom: 15px;
+}
+
+.change-password-container label,
+.delete-email-container label,
+.add-email-container label {
+  display: block;
+  font-weight: bold;
+}
+
+.change-password-container input,
+.delete-email-container input,
+.add-email-container input {
+  width: 100%;
+  padding: 8px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.change-password-container button,
+.delete-email-container button{
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.change-password-container button:hover,
+.delete-email-container button.adjustable-button:hover {
+  background-color: #0056b3;
+}
+
+.change-password-container .btn-primary {
+  background-color: #007bff;
+}
+
+.change-password-container .btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.delete-email-container .btn-danger {
+  background-color: #dc3545;
+}
+
+.delete-email-container .btn-danger:hover {
+  background-color: #bd2130;
+}
+
+/* CSS for Add Email form */
+.add-email-container {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.add-email-container h2 {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.add-email-container form {
+  margin-top: 10px;
+}
+
+.add-email-container .form-group {
+  margin-bottom: 15px;
+}
+
+.add-email-container label {
+  display: block;
+  font-weight: bold;
+}
+
+.add-email-container input {
+  width: 100%;
+  padding: 8px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.add-email-container button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.add-email-container button:hover {
+  background-color: #0056b3;
+}
+
+.add-email-container .btn-primary {
+  background-color: #007bff;
+}
+
+.add-email-container .btn-primary:hover {
+  background-color: #0056b3;
+}

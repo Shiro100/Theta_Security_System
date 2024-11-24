@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Theta</title>
+    <script src="https://cdn.socket.io/4.0.0/socket.io.min.js"></script>
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
+    />
+
+    <!-- Bootstrap 5 -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Link to external stylesheet -->
+    <link
+      href="{{ url_for('static', filename='css/stylesheet.css') }}"
+      rel="stylesheet"
+    />
+
+    <style>
+      /* Consolidated divider style */
+      .divider {
+        width: 1px;
+        height: 100%;
+        background-color: #ccc;
+        margin-right: 20px; /* Adjust the margin as needed */
+      }
+
+      /* Apply styles to the divider in the logs and help containers */
+      .logs-container .divider,
+      .help-container .divider {
+        margin-right: 0; /* Remove right margin */
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Header -->
+    <header id="header">Profile</header>
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+      <a href="#profile" onclick="updateContent('Profile')"
+        ><i class="bi bi-person-circle"></i
+      ></a>
+      <a href="#dashboard" onclick="updateContent('Dashboard')"
+        ><i class="bi bi-speedometer2"></i
+      ></a>
+      <a href="#logs" onclick="updateContent('Logs')"
+        ><i class="bi bi-journal"></i
+      ></a>
+      <a href="#contacts" onclick="updateContent('Contacts')"
+        ><i class="bi bi-person-fill"></i
+      ></a>
+      <a href="#help" onclick="updateContent('Help')"
+        ><i class="bi bi-question-circle"></i
+      ></a>
+    </div>
+
+    <div class="content" id="content">
+      <!-- inner empty container -->
+    </div>
+
+    <script>
+      function updateHeader(section) {
+        document.getElementById("header").innerText = section;
+      }
+
+      function updateContent(section) {
+        var contentDiv = document.getElementById("content");
+        switch (section) {
+          case "Profile":
+            contentDiv.innerHTML = `
+        <div class="profile-container">
+          <div class="profile-pic-container">
+            <div class="profile-pic-wrapper">
+              <img id="profile-pic" src="{{ url_for('static', filename='images/profile/default.jpg') }}" alt="Profile Picture" class="profile-pic circle"/>
+              <input type="file" id="profile-pic-input" accept="image/*" style="display: none;" onchange="loadProfilePicture(event)" />
+            </div>
+          </div>
+          <div class="profile-info">
+            <h2>Admin</h2>
+            <button onclick="document.getElementById('profile-pic-input').click()">Change Profile Picture</button>
+            <button onclick="changeName()">Change name</button>
+            <button onclick="changePassword()">Change password</button>
+          </div>
+        </div>
+        `;
+            break;
+
+          case "Dashboard":
+            contentDiv.innerHTML = `
+        <div class="dashboard-container">
+          <div class="time-display" id="date-time-display"></div> <!-- Display date and time here -->
+          <div class="content-row">
+            <div id="live-surveillance">
+              <h2>Live Surveillance</h2>
+              <img src="{{ url_for('video_feed') }}" width="100%" height="auto" />
+              <button class="fullscreen" onclick="goFullscreen()">Fullscreen</button>
+            </div>
+            <div id="live-logs">
+              <h2>Live Logs</h2>
+              <div id="live-logs-container">
+                <ul id="log_list">
+                  <!-- Log entries will be appended here -->
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        `;
+            updateDateTime(); // Start updating date and time
+            break;
+
+          case "Help":
+            contentDiv.innerHTML = `
+        <div class="help-container">
+          <div class="button-container">
+            <button id="button1" onclick="showGettingStarted()">Getting Started</button>
+            <button id="button2" onclick="showSupportForum()">Support Forum</button>
+            <button id="button3" onclick="showReportProblem()">Report a problem</button>
+          </div>
+          <div class="divider"></div> <!-- Divider -->
+          <div class="info-container" id="info-container">
+          </div>
+        </div>
+        `;
+            break;
+
+          case "Logs":
+            fetch("/get_logs")
+              .then((response) => response.json())
+              .then((data) => {
+                const logButtons = data
+                  .map((log) => {
+                    return `<button onclick="showLogs('${log}')">Logs ${log}</button>`;
+                  })
+                  .join("");
+                contentDiv.innerHTML = `
+                        <div class="logs-container">
+                            <div class="button-container">
+                                ${logButtons}
+                            </div>
+                            <div class="divider"></div> <!-- Divider -->
+                            <div class="info-container" id="log-display">
+                                <!-- Logs will be displayed here -->
+                            </div>
+                        </div>
+                    `;
+              })
+              .catch((error) => {
+                console.error("Error fetching logs:", error);
+                contentDiv.innerHTML = `
+                        <div class="logs-container">
+                            <p>Error fetching logs. Please try again later.</p>
+                        </div>
+                    `;
+              });
+            break;
+
+          case "Contacts":
+            contentDiv.innerHTML = `
+        <div class="contacts-container">
+          <div class="registered-faces">
+            <h3></h3>
+            <h2>Register Faces</h2>
+            <ul id="registered-faces-list">
+              <!-- User IDs will be dynamically populated here -->
+            </ul>
+            <form id="register-faces-form" action="/collect_faces" method="post" onsubmit="return validateRegisterForm()">
+              <label for="id">ID:</label>
+              <input type="text" id="id" name="id" required>
+              <br>
+              <br>
+              <label for="name">Name:</label>
+              <input type="text" id="name" name="name" required>
+              <button class="btn btn-secondary" type="submit" onclick="confirmRegisterFaces()">Register Faces</button>
+            </form>
+            <form id="train-faces-form" action="{{ url_for('train_faces') }}" method="post">
+               <button type="button" onclick="confirmTrainFaces()" class="btn btn-success">Train Faces</button>
+            </form>
+            <h3></h3>
+              <h2>Total Registered Faces: {{ registered_faces_count }}</h2>
+              <ul>
+                  {% for id, name in registered_faces %}
+                      <li>ID: {{ id }}, Name: {{ name }}</li>
+                  {% endfor %}
+              </ul>
+              <h3></h3>
+              <h2>Delete User</h2>
+              <form id="delete-user-form" action="{{ url_for('delete_user') }}" method="post" onsubmit="return validateDeleteForm()">
+                  <label for="delete_id">User ID:</label>
+                  <input type="number" id="delete_id" name="id" required>
+                  <button class="btn btn-secondary" type="submit" onclick="confirmDeleteFaces()">Delete User ID</button>
+              </form>
+              <h3></h3>
+            </div>
+            <div class="unknown-faces">
+              <h2>Live Video Feed</h2>
+              <img src="{{ url_for('video_feed') }}" width="100%" height="auto" />
+            </div>
+          </div>
+          `;
+            break;
+
+          default:
+            contentDiv.innerHTML =
+              "<h2>Default Page</h2><p>This is the default page.</p>";
+            break;
+        }
+        updateHeader(section);
+      }
+
+      function loadProfilePicture(event) {
+        const profilePic = document.getElementById("profile-pic");
+        profilePic.src = URL.createObjectURL(event.target.files[0]);
+        profilePic.onload = () => URL.revokeObjectURL(profilePic.src);
+      }
+
+      function changeName() {
+        // Implement the change name functionality here
+        alert("Change name functionality is not yet implemented.");
+      }
+
+      function changePassword() {
+        var contentDiv = document.getElementById("content");
+        contentDiv.innerHTML = `
+        <div class="change-password-container">
+          <h2>Change Password</h2>
+          <!-- Update the Change Password Form -->
+          <form id="change-password-form" onsubmit="submitPasswordChange(event)">
+            <div class="form-group">
+              <label for="email" class="form-label">Email:</label>
+              <input type="email" id="email" name="email" class="form-control" required>
+            </div>
+            <div class="form-group">
+              <label for="old-password" class="form-label">Old Password:</label>
+              <input type="password" id="old-password" name="old-password" class="form-control" required>
+            </div>
+            <div class="form-group">
+              <label for="new-password" class="form-label">New Password:</label>
+              <input type="password" id="new-password" name="new-password" class="form-control" required>
+            </div>
+            <div class="form-group">
+              <label for="confirm-password" class="form-label">Re-type New Password:</label>
+              <input type="password" id="confirm-password" name="confirm-password" class="form-control" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Confiirm</button>
+          </form>
+        </div>
+        `;
+      }
+
+      function submitPasswordChange(event) {
+        event.preventDefault();
+
+        // Retrieve form data
+        const email = document.getElementById("email").value;
+        const oldPassword = document.getElementById("old-password").value;
+        const newPassword = document.getElementById("new-password").value;
+        const confirmPassword =
+          document.getElementById("confirm-password").value;
+
+        // Perform validation
+        if (newPassword !== confirmPassword) {
+          alert("New password and confirm password do not match.");
+          return;
+        }
+
+        // Send AJAX request to Flask route for password change
+        fetch("/change_password", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            email: email,
+            oldPassword: oldPassword,
+            newPassword: newPassword,
+          }),
+        })
+          .then((response) => {
+            if (!response.ok) {
+              throw new Error("Network response was not ok");
+            }
+            return response.json();
+          })
+          .then((data) => {
+            // Handle response from server
+            alert(data.message); // Display success or error message
+            if (data.success) {
+              // Optionally, redirect user to another page after successful password change
+              window.location.href = "/"; // Redirect to home page
+            }
+          })
+          .catch((error) => {
+            console.error("Error:", error);
+            alert("An error occurred. Please try again.");
+          });
+      }
+
+      function showSupportForum() {
+        var infoContainer = document.getElementById("info-container");
+        infoContainer.innerHTML = `
+        <h2>Welcome to the Theta Community Forum</h2>
+        <p>Connect with other Theta users!</p>
+        <a href="#">How to change username?</a>
+        <a href="#">How to change password?</a>
+        <a href="#">How to register my face?</a>
+      `;
+      }
+
+      function showGettingStarted() {
+        var infoContainer = document.getElementById("info-container");
+        infoContainer.innerHTML = `<h2>Getting Started Content</h2>`;
+      }
+
+      function showReportProblem() {
+        var infoContainer = document.getElementById("info-container");
+        infoContainer.innerHTML = `
+        <h2>Have a problem? Feel free to email us</h2>
+        <p>File a ticket for a personal response from our support team.</p>
+        <form onsubmit="sendEmail(event)">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required />
+            <label for="subject">Subject</label>
+            <input type="text" id="subject" name="subject" required />
+            <label for="description">Description</label>
+            <textarea id="description" name="description" rows="5" required></textarea>
+            <button type="submit" class="adjustable-button">Send</button>
+        </form>
+      `;
+      }
+
+      function sendEmail(event) {
+        event.preventDefault();
+
+        const email = document.getElementById("email").value;
+        const subject = document.getElementById("subject").value;
+        const description = document.getElementById("description").value;
+
+        // Replace 'corporate_email@example.com' with the corporate email address
+        const corporateEmail = "corporate_email@example.com";
+
+        const mailtoLink = `mailto:${corporateEmail}?subject=${encodeURIComponent(
+          subject
+        )}&body=${encodeURIComponent(description)}`;
+
+        // Open the email composition in a new tab
+        window.open(mailtoLink, "_blank");
+
+        // Optionally, close the current tab if desired
+        // window.close();
+      }
+      function goFullscreen() {
+        const img = document.querySelector("#live-surveillance img");
+        if (img.requestFullscreen) {
+          img.requestFullscreen();
+        } else if (img.mozRequestFullScreen) {
+          // Firefox
+          img.mozRequestFullScreen();
+        } else if (img.webkitRequestFullscreen) {
+          // Chrome, Safari, and Opera
+          img.webkitRequestFullscreen();
+        } else if (img.msRequestFullscreen) {
+          // IE/Edge
+          img.msRequestFullscreen();
+        }
+      }
+
+      function updateDateTime() {
+        const dateTimeDisplay = document.getElementById("date-time-display");
+        setInterval(() => {
+          const now = new Date();
+          const formattedDateTime = now.toLocaleString("en-US", {
+            month: "long",
+            day: "2-digit",
+            year: "numeric",
+            hour: "2-digit",
+            minute: "2-digit",
+            hour12: false,
+          });
+          dateTimeDisplay.textContent = formattedDateTime;
+        }, 1000); // Update every second
+      }
+
+      function showLogs(date) {
+        fetch(`/get_logs/${date}`)
+          .then((response) => response.text())
+          .then((data) => {
+            const logDisplay = document.getElementById("log-display");
+            logDisplay.innerHTML = `<h2>Logs for ${date}</h2><pre>${data}</pre>`;
+            logDisplay.style.overflowY = "auto"; // Apply scroll for vertical overflow
+            logDisplay.style.maxHeight = "400px"; // Set maximum height to enable scrolling
+          })
+          .catch((error) => {
+            console.error("Error fetching logs for", date, ":", error);
+            const logDisplay = document.getElementById("log-display");
+            logDisplay.innerHTML = `<p>Error fetching logs for ${date}. Please try again later.</p>`;
+          });
+      }
+
+      // Initialize the default content
+      updateContent("Profile");
+
+      function confirmRegisterFaces() {
+        const idInput = document.getElementById("id").value;
+        if (idInput === "") {
+          alert("Please enter an ID before registering faces.");
+          return false; // Prevent form submission
+        }
+        // Display a confirmation dialog
+        if (
+          confirm(
+            "In order for the face recognition to work as intended, make sure to register in a well lit room and preferably a white background."
+          )
+        ) {
+          // If user confirms, submit the form
+          document.getElementById("register-faces-form").submit();
+        } else {
+          // If user cancels, do nothing
+          // You can add additional logic here if needed
+        }
+        return false; // Prevent default form submission
+      }
+
+      function confirmTrainFaces() {
+        // Display a confirmation dialog
+        if (
+          confirm(
+            "Warning: The system will restart after the training completes. Please input again the IP Address to access the website."
+          )
+        ) {
+          // If user confirms, submit the form
+          document.getElementById("train-faces-form").submit();
+        } else {
+          // If user cancels, do nothing
+          // You can add additional logic here if needed
+        }
+      }
+
+      function confirmDeleteFaces() {
+        const deleteIdInput = document.getElementById("delete_id").value;
+        if (deleteIdInput === "") {
+          alert("Please enter an ID before deleting.");
+          return false; // Prevent form submission
+        }
+        // Display a confirmation dialog
+        if (
+          confirm(
+            "Warning: Once you delete an existing ID, you can't revert the changes. Are you sure you want to delete this ID?"
+          )
+        ) {
+          // If user confirms, submit the form
+          document.getElementById("delete-user-form").submit();
+        } else {
+          // If user cancels, do nothing
+          // You can add additional logic here if needed
+        }
+        return false; // Prevent default form submission
+      }
+
+      function validateRegisterForm() {
+        const idInput = document.getElementById("id").value;
+        if (idInput === "") {
+          alert("Please enter an ID before registering faces.");
+          return false; // Prevent form submission
+        }
+        return true; // Allow form submission
+      }
+
+      function validateDeleteForm() {
+        const deleteIdInput = document.getElementById("delete_id").value;
+        if (deleteIdInput === "") {
+          alert("Please enter an ID before deleting.");
+          return false; // Prevent form submission
+        }
+        return true; // Allow form submission
+      }
+
+      // Initialize the default content
+      updateContent("Profile");
+    </script>
+    <script type="text/javascript">
+      var socket = io();
+      socket.on("log_update", function (log_entry) {
+        var logList = document.getElementById("log_list");
+        var newLog = document.createElement("li");
+        newLog.textContent = log_entry;
+        logList.appendChild(newLog);
+      });
+
+      // Making the logout icon clickable
+      document
+        .querySelector(".logout-icon")
+        .addEventListener("click", function () {
+          window.location.href = "{{ url_for('logout') }}";
+        });
+    </script>
+  </body>
+</html>

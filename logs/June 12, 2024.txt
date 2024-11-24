@@ -1,0 +1,11 @@
+[20:46]: Trainer.yml not found, starting without pre-trained recognizer
+[20:47]: Trainer.yml not found, starting without pre-trained recognizer
+[21:06]: Trainer.yml not found, starting without pre-trained recognizer
+[21:06]: Trainer.yml not found, starting without pre-trained recognizer
+[21:06]: Motion Detected
+[21:06]: Motion Detected
+[21:06]: Motion Detected
+[21:06]: Motion Detected
+[21:06]: Motion Detected
+[21:07]: Motion Detected
+[21:07]: Motion Detected

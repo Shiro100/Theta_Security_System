@@ -1,0 +1,425 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+header {
+  background-color: rgba(70, 85, 79, 0.5);
+  color: rgb(0, 0, 0);
+  padding: 20px 60px;
+  margin-left: 20px;
+  text-align: left;
+  font-size: 1.5rem;
+}
+
+.sidebar {
+  height: 100%;
+  width: 60px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #2f3640;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.sidebar a {
+  display: block;
+  padding: 10px 15px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+.sidebar a:hover {
+  background-color: #57606f;
+  border-radius: 10px;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+  margin-left: 70px;
+}
+
+.help-container {
+  display: flex;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+  margin-left: -10px;
+  margin-right: 16px;
+  width: 200px;
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+}
+
+.button-container button {
+  border: 1px solid black;
+  height: 40px;
+  width: 100%;
+  margin: 5px 0; /* Add vertical margin */
+  font-size: 15px;
+}
+
+.divider {
+  border-left: 1px solid lightgray;
+  margin-top: 15px;
+  height: 630px;
+  margin-right: 20px;
+  align-self: stretch;
+}
+
+.info-container {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  min-height: 150px; /* Set a fixed height */
+}
+
+.info-container h2 {
+  margin-top: 10px;
+}
+
+.info-container a {
+  color: #007bff;
+  text-decoration: none;
+  margin: 5px 0;
+}
+
+.info-container a:hover {
+  text-decoration: underline;
+}
+
+.info-container form {
+  display: flex;
+  flex-direction: column;
+}
+
+.info-container label {
+  margin: 5px 0;
+}
+
+.info-container input {
+  padding: 10px;
+  margin: 5px 0;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.info-container textarea {
+  padding: 10px;
+  margin: 5px 0;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  height: 150px; /* Fixed height */
+  resize: none; /* Disable resizing */
+}
+
+.adjustable-button {
+  width: 100px;
+  height: 40px;
+  margin-top: 10px;
+  background-color: lightgray;
+  color: black;
+  border: none;
+  border-radius: 15px;
+}
+
+.adjustable-button:hover {
+  background-color: #d3d3d3;
+}
+
+@media (min-width: 768px) {
+  .adjustable-button {
+    width: 120px;
+    height: 45px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .adjustable-button {
+    width: 150px;
+    height: 50px;
+  }
+}
+
+.contacts-container {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.registered-faces, 
+.unknown-faces {
+  border: 1px solid #dcdde1;
+  padding: 20px;
+  width: 45%;
+  background-color: #f5f6fa;
+  border-radius: 10px;
+}
+
+h2 {
+  border-bottom: 1px solid #dcdde1;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+h3 {
+  border-bottom: 3px solid #000000;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+button {
+  display: block;
+  margin-top: 20px;
+}
+
+.btn {
+  width: 100%;
+}
+
+.profile-pic-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px; /* Add some space below the picture container */
+}
+
+.profile-pic.circle {
+  width: 150px; /* Adjust the size as needed */
+  height: 150px; /* Adjust the size as needed */
+  border-radius: 50%; /* This makes the image circular */
+  object-fit: cover; /* Ensures the image covers the frame without distortion */
+  border: 2px solid #ddd; /* Optional: add a border */
+  padding: 3px; /* Optional: add some padding */
+}
+
+.profile-pic-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-info {
+  text-align: center; /* Center align the profile information */
+}
+
+.profile-info h2 {
+  margin-bottom: 20px; /* Add some space below the heading */
+}
+
+.profile-info button {
+  display: block;
+  margin: 10px auto; /* Center the buttons and add margin */
+  padding: 10px 20px; /* Add padding for better clickability */
+  font-size: 16px; /* Font size for the buttons */
+  color: black; /* Text color */
+  background: none; /* Button background color */
+  border: none; /* Remove default border */
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: background-color 0.3s; /* Smooth background color transition */
+}
+
+.profile-info button:hover {
+  background: none; 
+  font-weight: bold;
+}
+
+.profile-info button:focus {
+  outline: none; /* Remove outline on focus */
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.5); /* Add a focus ring */
+}
+
+#live-logs-container {
+  height: 500px; /* Adjust the height as needed */
+  overflow-y: scroll;
+  border: 1px solid #ccc; /* Optional: Add a border for better visualization */
+  padding: 10px; /* Optional: Add padding */
+}
+#log-list {
+  list-style-type: none; /* Remove bullet points */
+  padding: 0; /* Remove default padding */
+  margin: 0; /* Remove default margin */
+}
+#log-list li {
+  padding: 5px 0; /* Add padding for each log entry */
+}
+
+.fullscreen{
+  border-radius: 5px;
+  width: 100px;
+  font-size: 15px;
+}
+
+.time-display {
+  font-size: 18px;
+  color: #333; /* Text color */
+  font-family: Arial, sans-serif; /* Font family */
+  margin-bottom: 10px; /* Bottom margin */
+  text-align: center; /* Align center */
+}
+
+.dashboard-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start; /* Align items vertically at the start */
+}
+
+#live-surveillance,
+#live-logs {
+  width: 48%; /* Adjust width as needed */
+}
+
+#live-logs {
+  margin-left: 4%; /* Adjust margin for spacing */
+}
+
+.time-display {
+  font-size: 18px;
+}
+  
+.logs-container .divider,
+.help-container .divider {
+  width: 1px;
+  height: 100%;
+  background-color: #ccc;
+  margin-right: 20px; /* Adjust the margin as needed */
+}
+
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.content-row {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.time-display {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#live-surveillance {
+  flex: 1;
+  margin: 0 10px;
+  max-width: 600px; /* Adjust the max-width as needed */
+}
+
+#live-logs {
+  flex: 1;
+  margin: 0 10px;
+}
+
+.help-container,
+.logs-container {
+  display: flex;
+  align-items: flex-start;
+  margin: 20px;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.button-container button {
+  margin-bottom: 10px;
+}
+
+.divider {
+  width: 100%;
+  height: 1px;
+  background-color: #ccc;
+  margin-bottom: 20px;
+}
+
+.info-container {
+  width: 100%;
+}
+
+.info-container {
+  height: 600px; /* Adjust the height as needed */
+  overflow: auto; /* Add scrollbars when content overflows */
+}
+
+/* Consolidated divider style */
+.divider {
+  width: 1px;
+  height: 100%;
+  background-color: #ccc;
+  margin-right: 20px; /* Adjust the margin as needed */
+}
+
+/* Apply styles to the divider in the logs and help containers */
+.logs-container .divider,
+.help-container .divider {
+  margin-right: 0; /* Remove right margin */
+}
+
+/* Center labels above input fields */
+.change-password-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-group {
+  margin-bottom: 20px; /* Add some spacing between input fields */
+}
+
+.form-label {
+  text-align: left;
+  width: 100%; /* Make sure the label takes up the full width */
+}
+
+/* Style for form labels */
+.form-label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* Style for form input fields */
+.form-control {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+/* Style for form group */
+.form-group {
+  margin-bottom: 20px;
+}

@@ -1,0 +1,2614 @@
+[00:00]: Motion Detected
+[00:00]: Motion Detected
+[00:00]: Training completed successfully
+[00:00]: Motion Detected
+[00:00]: Face Detected: Charles
+[00:00]: Motion Detected
+[00:00]: Motion Detected
+[00:00]: Face Detected: Charles
+[00:01]: Face Detected: Unknown
+[00:01]: Motion Detected
+[00:01]: Face Detected: Charles
+[00:01]: Face Detected: Unknown
+[00:01]: Motion Detected
+[00:01]: Face Detected: Charles
+[00:01]: Face Detected: Unknown
+[00:01]: Motion Detected
+[00:01]: Face Detected: Charles
+[00:01]: Motion Detected
+[00:01]: Face Detected: Charles
+[00:01]: Motion Detected
+[00:01]: Face Detected: Charles
+[00:01]: Face Detected: Unknown
+[00:02]: Motion Detected
+[00:02]: Face Detected: Charles
+[00:02]: Motion Detected
+[00:02]: Face Detected: Charles
+[00:02]: Face Detected: Unknown
+[00:02]: Motion Detected
+[00:02]: Face Detected: Charles
+[00:02]: Face Detected: Unknown
+[00:02]: Deleted user ID: 1, Name: Charles
+[00:02]: Trainer.yml deleted
+[00:02]: Insufficient data for training. Need at least two samples.
+[00:02]: Collected augmented image: datasets\User.1.0.jpg
+[00:02]: Collected augmented image: datasets\User.1.1.jpg
+[00:02]: Collected augmented image: datasets\User.1.2.jpg
+[00:02]: Collected augmented image: datasets\User.1.3.jpg
+[00:02]: Collected augmented image: datasets\User.1.4.jpg
+[00:02]: Collected augmented image: datasets\User.1.5.jpg
+[00:02]: Collected augmented image: datasets\User.1.6.jpg
+[00:02]: Collected augmented image: datasets\User.1.7.jpg
+[00:02]: Collected augmented image: datasets\User.1.8.jpg
+[00:02]: Collected augmented image: datasets\User.1.9.jpg
+[00:02]: Collected augmented image: datasets\User.1.10.jpg
+[00:02]: Collected augmented image: datasets\User.1.11.jpg
+[00:02]: Collected augmented image: datasets\User.1.12.jpg
+[00:02]: Collected augmented image: datasets\User.1.13.jpg
+[00:02]: Collected augmented image: datasets\User.1.14.jpg
+[00:02]: Collected augmented image: datasets\User.1.15.jpg
+[00:02]: Collected augmented image: datasets\User.1.16.jpg
+[00:02]: Collected augmented image: datasets\User.1.17.jpg
+[00:02]: Collected augmented image: datasets\User.1.18.jpg
+[00:02]: Collected augmented image: datasets\User.1.19.jpg
+[00:02]: Collected augmented image: datasets\User.1.20.jpg
+[00:02]: Collected augmented image: datasets\User.1.21.jpg
+[00:02]: Collected augmented image: datasets\User.1.22.jpg
+[00:02]: Collected augmented image: datasets\User.1.23.jpg
+[00:02]: Collected augmented image: datasets\User.1.24.jpg
+[00:02]: Collected augmented image: datasets\User.1.25.jpg
+[00:02]: Collected augmented image: datasets\User.1.26.jpg
+[00:02]: Collected augmented image: datasets\User.1.27.jpg
+[00:02]: Collected augmented image: datasets\User.1.28.jpg
+[00:02]: Collected augmented image: datasets\User.1.29.jpg
+[00:02]: Collected augmented image: datasets\User.1.30.jpg
+[00:02]: Collected augmented image: datasets\User.1.31.jpg
+[00:02]: Collected augmented image: datasets\User.1.32.jpg
+[00:02]: Collected augmented image: datasets\User.1.33.jpg
+[00:02]: Collected augmented image: datasets\User.1.34.jpg
+[00:02]: Collected augmented image: datasets\User.1.35.jpg
+[00:02]: Collected augmented image: datasets\User.1.36.jpg
+[00:02]: Collected augmented image: datasets\User.1.37.jpg
+[00:02]: Collected augmented image: datasets\User.1.38.jpg
+[00:02]: Collected augmented image: datasets\User.1.39.jpg
+[00:02]: Collected augmented image: datasets\User.1.40.jpg
+[00:02]: Collected augmented image: datasets\User.1.41.jpg
+[00:02]: Collected augmented image: datasets\User.1.42.jpg
+[00:02]: Collected augmented image: datasets\User.1.43.jpg
+[00:02]: Collected augmented image: datasets\User.1.44.jpg
+[00:02]: Collected augmented image: datasets\User.1.45.jpg
+[00:02]: Collected augmented image: datasets\User.1.46.jpg
+[00:02]: Collected augmented image: datasets\User.1.47.jpg
+[00:02]: Collected augmented image: datasets\User.1.48.jpg
+[00:02]: Collected augmented image: datasets\User.1.49.jpg
+[00:02]: Collected augmented image: datasets\User.1.50.jpg
+[00:02]: Collected augmented image: datasets\User.1.51.jpg
+[00:02]: Collected augmented image: datasets\User.1.52.jpg
+[00:02]: Collected augmented image: datasets\User.1.53.jpg
+[00:02]: Collected augmented image: datasets\User.1.54.jpg
+[00:02]: Collected augmented image: datasets\User.1.55.jpg
+[00:02]: Collected augmented image: datasets\User.1.56.jpg
+[00:02]: Collected augmented image: datasets\User.1.57.jpg
+[00:02]: Collected augmented image: datasets\User.1.58.jpg
+[00:02]: Collected augmented image: datasets\User.1.59.jpg
+[00:02]: Motion Detected
+[00:02]: Collected augmented image: datasets\User.1.60.jpg
+[00:02]: Collected augmented image: datasets\User.1.61.jpg
+[00:02]: Collected augmented image: datasets\User.1.62.jpg
+[00:02]: Collected augmented image: datasets\User.1.63.jpg
+[00:02]: Collected augmented image: datasets\User.1.64.jpg
+[00:02]: Collected augmented image: datasets\User.1.65.jpg
+[00:02]: Collected augmented image: datasets\User.1.66.jpg
+[00:02]: Collected augmented image: datasets\User.1.67.jpg
+[00:02]: Collected augmented image: datasets\User.1.68.jpg
+[00:02]: Collected augmented image: datasets\User.1.69.jpg
+[00:02]: Collected augmented image: datasets\User.1.70.jpg
+[00:02]: Collected augmented image: datasets\User.1.71.jpg
+[00:02]: Collected augmented image: datasets\User.1.72.jpg
+[00:02]: Collected augmented image: datasets\User.1.73.jpg
+[00:02]: Collected augmented image: datasets\User.1.74.jpg
+[00:02]: Collected augmented image: datasets\User.1.75.jpg
+[00:02]: Collected augmented image: datasets\User.1.76.jpg
+[00:02]: Collected augmented image: datasets\User.1.77.jpg
+[00:02]: Collected augmented image: datasets\User.1.78.jpg
+[00:02]: Collected augmented image: datasets\User.1.79.jpg
+[00:02]: Collected augmented image: datasets\User.1.80.jpg
+[00:02]: Collected augmented image: datasets\User.1.81.jpg
+[00:02]: Collected augmented image: datasets\User.1.82.jpg
+[00:02]: Collected augmented image: datasets\User.1.83.jpg
+[00:02]: Collected augmented image: datasets\User.1.84.jpg
+[00:02]: Collected augmented image: datasets\User.1.85.jpg
+[00:02]: Collected augmented image: datasets\User.1.86.jpg
+[00:02]: Collected augmented image: datasets\User.1.87.jpg
+[00:02]: Collected augmented image: datasets\User.1.88.jpg
+[00:02]: Collected augmented image: datasets\User.1.89.jpg
+[00:02]: Collected augmented image: datasets\User.1.90.jpg
+[00:02]: Collected augmented image: datasets\User.1.91.jpg
+[00:02]: Collected augmented image: datasets\User.1.92.jpg
+[00:02]: Collected augmented image: datasets\User.1.93.jpg
+[00:02]: Collected augmented image: datasets\User.1.94.jpg
+[00:02]: Collected augmented image: datasets\User.1.95.jpg
+[00:02]: Collected augmented image: datasets\User.1.96.jpg
+[00:02]: Collected augmented image: datasets\User.1.97.jpg
+[00:02]: Collected augmented image: datasets\User.1.98.jpg
+[00:02]: Collected augmented image: datasets\User.1.99.jpg
+[00:02]: Collected augmented image: datasets\User.1.100.jpg
+[00:02]: Collected augmented image: datasets\User.1.101.jpg
+[00:02]: Finished collecting faces for ID: 1, Name: Charles
+[00:02]: Motion Detected
+[00:03]: Motion Detected
+[00:03]: Motion Detected
+[00:03]: Trainer.yml not found, starting without pre-trained recognizer
+[00:03]: Trainer.yml not found, starting without pre-trained recognizer
+[00:03]: Motion Detected
+[00:03]: Deleted user ID: 1, Name: Charles
+[00:03]: Insufficient data for training. Need at least two samples.
+[00:03]: Motion Detected
+[00:03]: Motion Detected
+[00:03]: Collected augmented image: datasets\User.1.0.jpg
+[00:03]: Collected augmented image: datasets\User.1.1.jpg
+[00:03]: Collected augmented image: datasets\User.1.2.jpg
+[00:03]: Collected augmented image: datasets\User.1.3.jpg
+[00:03]: Collected augmented image: datasets\User.1.4.jpg
+[00:03]: Collected augmented image: datasets\User.1.5.jpg
+[00:03]: Collected augmented image: datasets\User.1.6.jpg
+[00:03]: Collected augmented image: datasets\User.1.7.jpg
+[00:03]: Collected augmented image: datasets\User.1.8.jpg
+[00:03]: Collected augmented image: datasets\User.1.9.jpg
+[00:03]: Collected augmented image: datasets\User.1.10.jpg
+[00:03]: Collected augmented image: datasets\User.1.11.jpg
+[00:03]: Collected augmented image: datasets\User.1.12.jpg
+[00:03]: Collected augmented image: datasets\User.1.13.jpg
+[00:03]: Collected augmented image: datasets\User.1.14.jpg
+[00:03]: Collected augmented image: datasets\User.1.15.jpg
+[00:03]: Collected augmented image: datasets\User.1.16.jpg
+[00:03]: Collected augmented image: datasets\User.1.17.jpg
+[00:03]: Collected augmented image: datasets\User.1.18.jpg
+[00:03]: Collected augmented image: datasets\User.1.19.jpg
+[00:03]: Collected augmented image: datasets\User.1.20.jpg
+[00:03]: Collected augmented image: datasets\User.1.21.jpg
+[00:03]: Collected augmented image: datasets\User.1.22.jpg
+[00:03]: Collected augmented image: datasets\User.1.23.jpg
+[00:03]: Collected augmented image: datasets\User.1.24.jpg
+[00:03]: Collected augmented image: datasets\User.1.25.jpg
+[00:03]: Collected augmented image: datasets\User.1.26.jpg
+[00:03]: Collected augmented image: datasets\User.1.27.jpg
+[00:03]: Collected augmented image: datasets\User.1.28.jpg
+[00:03]: Collected augmented image: datasets\User.1.29.jpg
+[00:03]: Collected augmented image: datasets\User.1.30.jpg
+[00:03]: Collected augmented image: datasets\User.1.31.jpg
+[00:03]: Collected augmented image: datasets\User.1.32.jpg
+[00:03]: Collected augmented image: datasets\User.1.33.jpg
+[00:03]: Collected augmented image: datasets\User.1.34.jpg
+[00:03]: Collected augmented image: datasets\User.1.35.jpg
+[00:03]: Collected augmented image: datasets\User.1.36.jpg
+[00:03]: Collected augmented image: datasets\User.1.37.jpg
+[00:03]: Collected augmented image: datasets\User.1.38.jpg
+[00:03]: Collected augmented image: datasets\User.1.39.jpg
+[00:03]: Collected augmented image: datasets\User.1.40.jpg
+[00:03]: Collected augmented image: datasets\User.1.41.jpg
+[00:03]: Collected augmented image: datasets\User.1.42.jpg
+[00:03]: Collected augmented image: datasets\User.1.43.jpg
+[00:03]: Collected augmented image: datasets\User.1.44.jpg
+[00:03]: Collected augmented image: datasets\User.1.45.jpg
+[00:03]: Collected augmented image: datasets\User.1.46.jpg
+[00:03]: Collected augmented image: datasets\User.1.47.jpg
+[00:03]: Collected augmented image: datasets\User.1.48.jpg
+[00:03]: Collected augmented image: datasets\User.1.49.jpg
+[00:03]: Collected augmented image: datasets\User.1.50.jpg
+[00:03]: Collected augmented image: datasets\User.1.51.jpg
+[00:03]: Collected augmented image: datasets\User.1.52.jpg
+[00:03]: Collected augmented image: datasets\User.1.53.jpg
+[00:03]: Collected augmented image: datasets\User.1.54.jpg
+[00:03]: Collected augmented image: datasets\User.1.55.jpg
+[00:03]: Collected augmented image: datasets\User.1.56.jpg
+[00:03]: Collected augmented image: datasets\User.1.57.jpg
+[00:03]: Collected augmented image: datasets\User.1.58.jpg
+[00:03]: Collected augmented image: datasets\User.1.59.jpg
+[00:03]: Collected augmented image: datasets\User.1.60.jpg
+[00:03]: Collected augmented image: datasets\User.1.61.jpg
+[00:03]: Collected augmented image: datasets\User.1.62.jpg
+[00:03]: Collected augmented image: datasets\User.1.63.jpg
+[00:03]: Collected augmented image: datasets\User.1.64.jpg
+[00:03]: Collected augmented image: datasets\User.1.65.jpg
+[00:03]: Collected augmented image: datasets\User.1.66.jpg
+[00:03]: Collected augmented image: datasets\User.1.67.jpg
+[00:03]: Collected augmented image: datasets\User.1.68.jpg
+[00:03]: Collected augmented image: datasets\User.1.69.jpg
+[00:03]: Collected augmented image: datasets\User.1.70.jpg
+[00:03]: Collected augmented image: datasets\User.1.71.jpg
+[00:03]: Collected augmented image: datasets\User.1.72.jpg
+[00:03]: Collected augmented image: datasets\User.1.73.jpg
+[00:03]: Collected augmented image: datasets\User.1.74.jpg
+[00:03]: Collected augmented image: datasets\User.1.75.jpg
+[00:03]: Collected augmented image: datasets\User.1.76.jpg
+[00:03]: Collected augmented image: datasets\User.1.77.jpg
+[00:03]: Collected augmented image: datasets\User.1.78.jpg
+[00:03]: Collected augmented image: datasets\User.1.79.jpg
+[00:03]: Collected augmented image: datasets\User.1.80.jpg
+[00:03]: Collected augmented image: datasets\User.1.81.jpg
+[00:03]: Collected augmented image: datasets\User.1.82.jpg
+[00:03]: Collected augmented image: datasets\User.1.83.jpg
+[00:03]: Collected augmented image: datasets\User.1.84.jpg
+[00:03]: Collected augmented image: datasets\User.1.85.jpg
+[00:03]: Collected augmented image: datasets\User.1.86.jpg
+[00:03]: Collected augmented image: datasets\User.1.87.jpg
+[00:03]: Collected augmented image: datasets\User.1.88.jpg
+[00:03]: Collected augmented image: datasets\User.1.89.jpg
+[00:03]: Collected augmented image: datasets\User.1.90.jpg
+[00:03]: Collected augmented image: datasets\User.1.91.jpg
+[00:03]: Collected augmented image: datasets\User.1.92.jpg
+[00:03]: Collected augmented image: datasets\User.1.93.jpg
+[00:03]: Collected augmented image: datasets\User.1.94.jpg
+[00:03]: Collected augmented image: datasets\User.1.95.jpg
+[00:03]: Collected augmented image: datasets\User.1.96.jpg
+[00:03]: Collected augmented image: datasets\User.1.97.jpg
+[00:03]: Collected augmented image: datasets\User.1.98.jpg
+[00:03]: Collected augmented image: datasets\User.1.99.jpg
+[00:03]: Collected augmented image: datasets\User.1.100.jpg
+[00:03]: Collected augmented image: datasets\User.1.101.jpg
+[00:03]: Finished collecting faces for ID: 1, Name: Charles 
+[00:03]: Motion Detected
+[00:04]: Motion Detected
+[00:04]: Motion Detected
+[00:04]: Motion Detected
+[00:04]: Motion Detected
+[00:04]: Training completed successfully
+[00:05]: Motion Detected
+[00:05]: Face Detected: Charles
+[00:05]: Face Detected: Unknown
+[00:05]: Motion Detected
+[00:05]: Face Detected: Charles
+[00:05]: Face Detected: Unknown
+[00:05]: Motion Detected
+[00:05]: Face Detected: Charles
+[00:05]: Face Detected: Unknown
+[00:05]: Motion Detected
+[00:05]: Face Detected: Charles
+[00:05]: Face Detected: Unknown
+[00:05]: Motion Detected
+[00:05]: Face Detected: Charles
+[00:06]: Motion Detected
+[00:06]: Face Detected: Charles
+[00:06]: Face Detected: Unknown
+[00:06]: Motion Detected
+[00:06]: Face Detected: Charles
+[00:06]: Motion Detected
+[00:06]: Face Detected: Charles
+[00:06]: Motion Detected
+[00:06]: Face Detected: Charles
+[00:06]: Face Detected: Unknown
+[00:06]: Motion Detected
+[00:06]: Face Detected: Charles
+[00:07]: Motion Detected
+[00:07]: Face Detected: Charles
+[00:07]: Face Detected: Unknown
+[00:07]: Motion Detected
+[00:07]: Face Detected: Charles
+[00:07]: Face Detected: Unknown
+[00:07]: Motion Detected
+[00:07]: Face Detected: Charles
+[00:07]: Motion Detected
+[00:07]: Face Detected: Charles
+[00:08]: Motion Detected
+[00:08]: Face Detected: Charles
+[00:08]: Face Detected: Unknown
+[00:08]: Motion Detected
+[00:08]: Face Detected: Charles
+[00:08]: Motion Detected
+[00:08]: Face Detected: Charles
+[00:08]: Face Detected: Unknown
+[00:08]: Motion Detected
+[00:08]: Face Detected: Charles
+[00:08]: Face Detected: Unknown
+[00:08]: Motion Detected
+[00:08]: Face Detected: Charles
+[00:09]: Motion Detected
+[00:09]: Face Detected: Charles
+[00:09]: Face Detected: Unknown
+[00:09]: Motion Detected
+[00:09]: Face Detected: Charles
+[00:09]: Deleted user ID: 1, Name: Charles
+[00:09]: Trainer.yml deleted
+[00:09]: Insufficient data for training. Need at least two samples.
+[00:09]: Collected image: datasets\User.1.1.jpg
+[00:09]: Collected image: datasets\User.1.2.jpg
+[00:09]: Collected image: datasets\User.1.3.jpg
+[00:09]: Collected image: datasets\User.1.4.jpg
+[00:09]: Collected image: datasets\User.1.5.jpg
+[00:09]: Collected image: datasets\User.1.6.jpg
+[00:09]: Collected image: datasets\User.1.7.jpg
+[00:09]: Collected image: datasets\User.1.8.jpg
+[00:09]: Collected image: datasets\User.1.9.jpg
+[00:09]: Collected image: datasets\User.1.10.jpg
+[00:09]: Collected image: datasets\User.1.11.jpg
+[00:09]: Collected image: datasets\User.1.12.jpg
+[00:09]: Collected image: datasets\User.1.13.jpg
+[00:09]: Collected image: datasets\User.1.14.jpg
+[00:09]: Collected image: datasets\User.1.15.jpg
+[00:09]: Collected image: datasets\User.1.16.jpg
+[00:09]: Collected image: datasets\User.1.17.jpg
+[00:09]: Collected image: datasets\User.1.18.jpg
+[00:09]: Collected image: datasets\User.1.19.jpg
+[00:09]: Collected image: datasets\User.1.20.jpg
+[00:09]: Collected image: datasets\User.1.21.jpg
+[00:09]: Collected image: datasets\User.1.22.jpg
+[00:09]: Collected image: datasets\User.1.23.jpg
+[00:09]: Collected image: datasets\User.1.24.jpg
+[00:09]: Collected image: datasets\User.1.25.jpg
+[00:09]: Collected image: datasets\User.1.26.jpg
+[00:09]: Collected image: datasets\User.1.27.jpg
+[00:09]: Collected image: datasets\User.1.28.jpg
+[00:09]: Collected image: datasets\User.1.29.jpg
+[00:09]: Collected image: datasets\User.1.30.jpg
+[00:09]: Collected image: datasets\User.1.31.jpg
+[00:09]: Collected image: datasets\User.1.32.jpg
+[00:09]: Collected image: datasets\User.1.33.jpg
+[00:09]: Collected image: datasets\User.1.34.jpg
+[00:09]: Collected image: datasets\User.1.35.jpg
+[00:09]: Collected image: datasets\User.1.36.jpg
+[00:09]: Collected image: datasets\User.1.37.jpg
+[00:09]: Collected image: datasets\User.1.38.jpg
+[00:09]: Motion Detected
+[00:09]: Collected image: datasets\User.1.39.jpg
+[00:09]: Collected image: datasets\User.1.40.jpg
+[00:09]: Collected image: datasets\User.1.41.jpg
+[00:09]: Collected image: datasets\User.1.42.jpg
+[00:09]: Collected image: datasets\User.1.43.jpg
+[00:09]: Collected image: datasets\User.1.44.jpg
+[00:09]: Collected image: datasets\User.1.45.jpg
+[00:09]: Collected image: datasets\User.1.46.jpg
+[00:09]: Collected image: datasets\User.1.47.jpg
+[00:09]: Collected image: datasets\User.1.48.jpg
+[00:09]: Collected image: datasets\User.1.49.jpg
+[00:09]: Collected image: datasets\User.1.50.jpg
+[00:09]: Collected image: datasets\User.1.51.jpg
+[00:09]: Collected image: datasets\User.1.52.jpg
+[00:09]: Collected image: datasets\User.1.53.jpg
+[00:09]: Collected image: datasets\User.1.54.jpg
+[00:09]: Collected image: datasets\User.1.55.jpg
+[00:09]: Collected image: datasets\User.1.56.jpg
+[00:09]: Collected image: datasets\User.1.57.jpg
+[00:09]: Collected image: datasets\User.1.58.jpg
+[00:09]: Collected image: datasets\User.1.59.jpg
+[00:09]: Collected image: datasets\User.1.60.jpg
+[00:09]: Collected image: datasets\User.1.61.jpg
+[00:09]: Collected image: datasets\User.1.62.jpg
+[00:09]: Collected image: datasets\User.1.63.jpg
+[00:09]: Collected image: datasets\User.1.64.jpg
+[00:09]: Collected image: datasets\User.1.65.jpg
+[00:09]: Collected image: datasets\User.1.66.jpg
+[00:09]: Training completed successfully
+[00:09]: Motion Detected
+[00:09]: Face Detected: Unknown
+[00:10]: Motion Detected
+[00:10]: Face Detected: Unknown
+[00:10]: Motion Detected
+[00:10]: Motion Detected
+[00:10]: Face Detected: Unknown
+[00:10]: Motion Detected
+[00:10]: Face Detected: Unknown
+[00:10]: Collected image: datasets\User.1.1.jpg
+[00:10]: Collected image: datasets\User.1.2.jpg
+[00:10]: Collected image: datasets\User.1.3.jpg
+[00:10]: Collected image: datasets\User.1.4.jpg
+[00:10]: Collected image: datasets\User.1.5.jpg
+[00:10]: Collected image: datasets\User.1.6.jpg
+[00:10]: Collected image: datasets\User.1.7.jpg
+[00:10]: Collected image: datasets\User.1.8.jpg
+[00:10]: Collected image: datasets\User.1.9.jpg
+[00:10]: Collected image: datasets\User.1.10.jpg
+[00:10]: Collected image: datasets\User.1.11.jpg
+[00:10]: Collected image: datasets\User.1.12.jpg
+[00:10]: Collected image: datasets\User.1.13.jpg
+[00:10]: Collected image: datasets\User.1.14.jpg
+[00:10]: Collected image: datasets\User.1.15.jpg
+[00:10]: Collected image: datasets\User.1.16.jpg
+[00:10]: Collected image: datasets\User.1.17.jpg
+[00:10]: Collected image: datasets\User.1.18.jpg
+[00:10]: Collected image: datasets\User.1.19.jpg
+[00:10]: Collected image: datasets\User.1.20.jpg
+[00:10]: Collected image: datasets\User.1.21.jpg
+[00:10]: Collected image: datasets\User.1.22.jpg
+[00:10]: Collected image: datasets\User.1.23.jpg
+[00:10]: Collected image: datasets\User.1.24.jpg
+[00:10]: Collected image: datasets\User.1.25.jpg
+[00:10]: Collected image: datasets\User.1.26.jpg
+[00:10]: Collected image: datasets\User.1.27.jpg
+[00:10]: Collected image: datasets\User.1.28.jpg
+[00:10]: Collected image: datasets\User.1.29.jpg
+[00:10]: Collected image: datasets\User.1.30.jpg
+[00:10]: Collected image: datasets\User.1.31.jpg
+[00:10]: Collected image: datasets\User.1.32.jpg
+[00:10]: Collected image: datasets\User.1.33.jpg
+[00:10]: Collected image: datasets\User.1.34.jpg
+[00:10]: Collected image: datasets\User.1.35.jpg
+[00:10]: Collected image: datasets\User.1.36.jpg
+[00:10]: Collected image: datasets\User.1.37.jpg
+[00:10]: Collected image: datasets\User.1.38.jpg
+[00:10]: Collected image: datasets\User.1.39.jpg
+[00:10]: Collected image: datasets\User.1.40.jpg
+[00:10]: Collected image: datasets\User.1.41.jpg
+[00:10]: Motion Detected
+[00:10]: Collected image: datasets\User.1.42.jpg
+[00:10]: Collected image: datasets\User.1.43.jpg
+[00:10]: Collected image: datasets\User.1.44.jpg
+[00:10]: Collected image: datasets\User.1.45.jpg
+[00:10]: Collected image: datasets\User.1.46.jpg
+[00:10]: Collected image: datasets\User.1.47.jpg
+[00:10]: Collected image: datasets\User.1.48.jpg
+[00:10]: Collected image: datasets\User.1.49.jpg
+[00:10]: Collected image: datasets\User.1.50.jpg
+[00:10]: Collected image: datasets\User.1.51.jpg
+[00:10]: Collected image: datasets\User.1.52.jpg
+[00:10]: Collected image: datasets\User.1.53.jpg
+[00:10]: Collected image: datasets\User.1.54.jpg
+[00:10]: Collected image: datasets\User.1.55.jpg
+[00:10]: Collected image: datasets\User.1.56.jpg
+[00:10]: Collected image: datasets\User.1.57.jpg
+[00:10]: Collected image: datasets\User.1.58.jpg
+[00:10]: Collected image: datasets\User.1.59.jpg
+[00:10]: Collected image: datasets\User.1.60.jpg
+[00:10]: Collected image: datasets\User.1.61.jpg
+[00:10]: Collected image: datasets\User.1.62.jpg
+[00:10]: Collected image: datasets\User.1.63.jpg
+[00:10]: Collected image: datasets\User.1.64.jpg
+[00:10]: Collected image: datasets\User.1.65.jpg
+[00:10]: Collected image: datasets\User.1.66.jpg
+[00:10]: Collected image: datasets\User.1.67.jpg
+[00:10]: Collected image: datasets\User.1.68.jpg
+[00:10]: Collected image: datasets\User.1.69.jpg
+[00:10]: Collected image: datasets\User.1.70.jpg
+[00:10]: Collected image: datasets\User.1.71.jpg
+[00:10]: Collected image: datasets\User.1.72.jpg
+[00:10]: Collected image: datasets\User.1.73.jpg
+[00:10]: Collected image: datasets\User.1.74.jpg
+[00:10]: Collected image: datasets\User.1.75.jpg
+[00:10]: Collected image: datasets\User.1.76.jpg
+[00:10]: Collected image: datasets\User.1.77.jpg
+[00:10]: Collected image: datasets\User.1.78.jpg
+[00:10]: Collected image: datasets\User.1.79.jpg
+[00:10]: Collected image: datasets\User.1.80.jpg
+[00:10]: Collected image: datasets\User.1.81.jpg
+[00:10]: Collected image: datasets\User.1.82.jpg
+[00:10]: Collected image: datasets\User.1.83.jpg
+[00:10]: Collected image: datasets\User.1.84.jpg
+[00:10]: Collected image: datasets\User.1.85.jpg
+[00:10]: Collected image: datasets\User.1.86.jpg
+[00:10]: Collected image: datasets\User.1.87.jpg
+[00:10]: Collected image: datasets\User.1.88.jpg
+[00:10]: Collected image: datasets\User.1.89.jpg
+[00:10]: Collected image: datasets\User.1.90.jpg
+[00:10]: Collected image: datasets\User.1.91.jpg
+[00:10]: Collected image: datasets\User.1.92.jpg
+[00:10]: Collected image: datasets\User.1.93.jpg
+[00:10]: Collected image: datasets\User.1.94.jpg
+[00:10]: Collected image: datasets\User.1.95.jpg
+[00:10]: Collected image: datasets\User.1.96.jpg
+[00:10]: Collected image: datasets\User.1.97.jpg
+[00:10]: Collected image: datasets\User.1.98.jpg
+[00:10]: Collected image: datasets\User.1.99.jpg
+[00:10]: Collected image: datasets\User.1.100.jpg
+[00:10]: Finished collecting faces for ID: 1, Name: Charles
+[00:10]: Face Detected: Unknown
+[00:11]: Training completed successfully
+[00:11]: Motion Detected
+[00:11]: Face Detected: Charles
+[00:11]: Face Detected: Unknown
+[00:11]: Motion Detected
+[00:11]: Face Detected: Charles
+[00:11]: Motion Detected
+[00:11]: Face Detected: Charles
+[00:11]: Motion Detected
+[00:12]: Motion Detected
+[00:12]: Face Detected: Charles
+[00:12]: Motion Detected
+[00:12]: Deleted user ID: 1, Name: Charles
+[00:12]: Trainer.yml deleted
+[00:12]: Insufficient data for training. Need at least two samples.
+[00:12]: Collected augmented image: datasets\User.1.0.jpg
+[00:12]: Collected augmented image: datasets\User.1.1.jpg
+[00:12]: Collected augmented image: datasets\User.1.2.jpg
+[00:12]: Collected augmented image: datasets\User.1.3.jpg
+[00:12]: Collected augmented image: datasets\User.1.4.jpg
+[00:12]: Collected augmented image: datasets\User.1.5.jpg
+[00:12]: Collected augmented image: datasets\User.1.6.jpg
+[00:12]: Collected augmented image: datasets\User.1.7.jpg
+[00:12]: Collected augmented image: datasets\User.1.8.jpg
+[00:12]: Collected augmented image: datasets\User.1.9.jpg
+[00:12]: Collected augmented image: datasets\User.1.10.jpg
+[00:12]: Collected augmented image: datasets\User.1.11.jpg
+[00:12]: Collected augmented image: datasets\User.1.12.jpg
+[00:12]: Collected augmented image: datasets\User.1.13.jpg
+[00:12]: Collected augmented image: datasets\User.1.14.jpg
+[00:12]: Collected augmented image: datasets\User.1.15.jpg
+[00:12]: Collected augmented image: datasets\User.1.16.jpg
+[00:12]: Collected augmented image: datasets\User.1.17.jpg
+[00:12]: Collected augmented image: datasets\User.1.18.jpg
+[00:12]: Collected augmented image: datasets\User.1.19.jpg
+[00:12]: Collected augmented image: datasets\User.1.20.jpg
+[00:12]: Collected augmented image: datasets\User.1.21.jpg
+[00:12]: Collected augmented image: datasets\User.1.22.jpg
+[00:12]: Collected augmented image: datasets\User.1.23.jpg
+[00:12]: Collected augmented image: datasets\User.1.24.jpg
+[00:12]: Collected augmented image: datasets\User.1.25.jpg
+[00:12]: Collected augmented image: datasets\User.1.26.jpg
+[00:12]: Collected augmented image: datasets\User.1.27.jpg
+[00:12]: Collected augmented image: datasets\User.1.28.jpg
+[00:12]: Collected augmented image: datasets\User.1.29.jpg
+[00:12]: Collected augmented image: datasets\User.1.30.jpg
+[00:12]: Collected augmented image: datasets\User.1.31.jpg
+[00:12]: Collected augmented image: datasets\User.1.32.jpg
+[00:12]: Collected augmented image: datasets\User.1.33.jpg
+[00:12]: Collected augmented image: datasets\User.1.34.jpg
+[00:12]: Collected augmented image: datasets\User.1.35.jpg
+[00:12]: Collected augmented image: datasets\User.1.36.jpg
+[00:12]: Collected augmented image: datasets\User.1.37.jpg
+[00:12]: Collected augmented image: datasets\User.1.38.jpg
+[00:12]: Collected augmented image: datasets\User.1.39.jpg
+[00:12]: Collected augmented image: datasets\User.1.40.jpg
+[00:12]: Collected augmented image: datasets\User.1.41.jpg
+[00:12]: Collected augmented image: datasets\User.1.42.jpg
+[00:12]: Collected augmented image: datasets\User.1.43.jpg
+[00:12]: Collected augmented image: datasets\User.1.44.jpg
+[00:12]: Collected augmented image: datasets\User.1.45.jpg
+[00:12]: Collected augmented image: datasets\User.1.46.jpg
+[00:12]: Collected augmented image: datasets\User.1.47.jpg
+[00:12]: Collected augmented image: datasets\User.1.48.jpg
+[00:12]: Collected augmented image: datasets\User.1.49.jpg
+[00:12]: Collected augmented image: datasets\User.1.50.jpg
+[00:12]: Collected augmented image: datasets\User.1.51.jpg
+[00:12]: Collected augmented image: datasets\User.1.52.jpg
+[00:12]: Collected augmented image: datasets\User.1.53.jpg
+[00:12]: Collected augmented image: datasets\User.1.54.jpg
+[00:12]: Collected augmented image: datasets\User.1.55.jpg
+[00:12]: Collected augmented image: datasets\User.1.56.jpg
+[00:12]: Collected augmented image: datasets\User.1.57.jpg
+[00:12]: Collected augmented image: datasets\User.1.58.jpg
+[00:12]: Collected augmented image: datasets\User.1.59.jpg
+[00:12]: Collected augmented image: datasets\User.1.60.jpg
+[00:12]: Collected augmented image: datasets\User.1.61.jpg
+[00:12]: Collected augmented image: datasets\User.1.62.jpg
+[00:12]: Collected augmented image: datasets\User.1.63.jpg
+[00:12]: Collected augmented image: datasets\User.1.64.jpg
+[00:12]: Collected augmented image: datasets\User.1.65.jpg
+[00:12]: Collected augmented image: datasets\User.1.66.jpg
+[00:12]: Collected augmented image: datasets\User.1.67.jpg
+[00:12]: Collected augmented image: datasets\User.1.68.jpg
+[00:12]: Collected augmented image: datasets\User.1.69.jpg
+[00:12]: Collected augmented image: datasets\User.1.70.jpg
+[00:12]: Collected augmented image: datasets\User.1.71.jpg
+[00:12]: Collected augmented image: datasets\User.1.72.jpg
+[00:12]: Collected augmented image: datasets\User.1.73.jpg
+[00:12]: Collected augmented image: datasets\User.1.74.jpg
+[00:12]: Collected augmented image: datasets\User.1.75.jpg
+[00:12]: Collected augmented image: datasets\User.1.76.jpg
+[00:12]: Collected augmented image: datasets\User.1.77.jpg
+[00:12]: Collected augmented image: datasets\User.1.78.jpg
+[00:12]: Collected augmented image: datasets\User.1.79.jpg
+[00:12]: Collected augmented image: datasets\User.1.80.jpg
+[00:12]: Collected augmented image: datasets\User.1.81.jpg
+[00:12]: Collected augmented image: datasets\User.1.82.jpg
+[00:12]: Collected augmented image: datasets\User.1.83.jpg
+[00:12]: Collected augmented image: datasets\User.1.84.jpg
+[00:12]: Collected augmented image: datasets\User.1.85.jpg
+[00:12]: Collected augmented image: datasets\User.1.86.jpg
+[00:12]: Collected augmented image: datasets\User.1.87.jpg
+[00:12]: Collected augmented image: datasets\User.1.88.jpg
+[00:12]: Collected augmented image: datasets\User.1.89.jpg
+[00:12]: Collected augmented image: datasets\User.1.90.jpg
+[00:12]: Collected augmented image: datasets\User.1.91.jpg
+[00:12]: Collected augmented image: datasets\User.1.92.jpg
+[00:12]: Collected augmented image: datasets\User.1.93.jpg
+[00:12]: Collected augmented image: datasets\User.1.94.jpg
+[00:12]: Collected augmented image: datasets\User.1.95.jpg
+[00:12]: Collected augmented image: datasets\User.1.96.jpg
+[00:12]: Collected augmented image: datasets\User.1.97.jpg
+[00:12]: Collected augmented image: datasets\User.1.98.jpg
+[00:12]: Collected augmented image: datasets\User.1.99.jpg
+[00:12]: Collected augmented image: datasets\User.1.100.jpg
+[00:12]: Collected augmented image: datasets\User.1.101.jpg
+[00:12]: Finished collecting faces for ID: 1, Name: Charles
+[00:12]: Motion Detected
+[00:12]: Training completed successfully
+[00:13]: Motion Detected
+[00:13]: Face Detected: Charles
+[00:13]: Face Detected: Unknown
+[00:13]: Motion Detected
+[00:13]: Face Detected: Charles
+[00:13]: Motion Detected
+[00:13]: Face Detected: Charles
+[00:13]: Face Detected: Unknown
+[00:13]: Motion Detected
+[00:13]: Face Detected: Charles
+[00:13]: Face Detected: Unknown
+[00:13]: Motion Detected
+[00:13]: Face Detected: Charles
+[00:13]: Face Detected: Unknown
+[00:13]: Motion Detected
+[00:13]: Face Detected: Unknown
+[00:13]: Face Detected: Charles
+[00:14]: Motion Detected
+[00:14]: Face Detected: Unknown
+[00:14]: Face Detected: Charles
+[00:14]: Motion Detected
+[00:14]: Face Detected: Unknown
+[00:14]: Motion Detected
+[00:14]: Face Detected: Charles
+[00:14]: Motion Detected
+[00:14]: Face Detected: Charles
+[00:14]: Face Detected: Unknown
+[00:14]: Motion Detected
+[00:14]: Face Detected: Charles
+[00:14]: Face Detected: Unknown
+[00:14]: Motion Detected
+[00:14]: Face Detected: Charles
+[11:48]: Face Detected: Charles
+[11:48]: Face Detected: Charles
+[11:48]: Face Detected: Unknown
+[11:49]: Face Detected: Charles
+[11:49]: Face Detected: Charles
+[11:49]: Face Detected: Charles
+[11:49]: Face Detected: Charles
+[11:49]: Face Detected: Charles
+[11:50]: Face Detected: Charles
+[11:50]: Face Detected: Charles
+[11:50]: Face Detected: Charles
+[11:50]: Face Detected: Charles
+[11:50]: Face Detected: Charles
+[11:51]: Face Detected: Charles
+[11:51]: Face Detected: Unknown
+[11:51]: Face Detected: Charles
+[11:52]: Face Detected: Charles
+[11:52]: Face Detected: Charles
+[11:52]: Face Detected: Charles
+[11:52]: Face Detected: Charles
+[11:53]: Face Detected: Charles
+[11:53]: Face Detected: Unknown
+[11:54]: Face Detected: Unknown
+[11:54]: Face Detected: Charles
+[11:54]: Face Detected: Unknown
+[11:54]: Face Detected: Charles
+[11:54]: Face Detected: Unknown
+[11:55]: Face Detected: Unknown
+[11:55]: Face Detected: Unknown
+[11:55]: Face Detected: Charles
+[11:55]: Face Detected: Unknown
+[11:55]: Face Detected: Unknown
+[11:55]: Face Detected: Charles
+[11:55]: Face Detected: Charles
+[11:56]: Face Detected: Charles
+[11:56]: Face Detected: Charles
+[11:56]: Face Detected: Charles
+[11:56]: Face Detected: Charles
+[11:56]: Face Detected: Unknown
+[11:57]: Face Detected: Charles
+[12:09]: Face Detected: Charles
+[12:24]: Face Detected: Charles
+[12:25]: Face Detected: Charles
+[12:25]: Face Detected: Charles
+[12:28]: Face Detected: Charles
+[12:28]: Face Detected: Charles
+[12:28]: Face Detected: Charles
+[12:28]: Face Detected: Charles
+[12:29]: Face Detected: Charles
+[12:29]: Face Detected: Unknown
+[12:29]: Face Detected: Charles
+[12:29]: Face Detected: Charles
+[12:30]: Face Detected: Charles
+[12:30]: Face Detected: Charles
+[12:30]: Face Detected: Charles
+[12:30]: Face Detected: Unknown
+[12:30]: Face Detected: Charles
+[12:31]: Face Detected: Unknown
+[12:31]: Face Detected: Charles
+[12:31]: Face Detected: Charles
+[12:32]: Face Detected: Charles
+[12:32]: Face Detected: Unknown
+[12:32]: Face Detected: Unknown
+[12:33]: Face Detected: Unknown
+[12:34]: Face Detected: Unknown
+[12:34]: Face Detected: Unknown
+[12:34]: Face Detected: Unknown
+[12:34]: Face Detected: Unknown
+[12:37]: Face Detected: Charles
+[12:37]: Face Detected: Unknown
+[12:40]: Face Detected: Charles
+[12:40]: Face Detected: Unknown
+[12:41]: Face Detected: Charles
+[12:41]: Face Detected: Charles
+[12:41]: Face Detected: Charles
+[12:41]: Face Detected: Unknown
+[12:41]: Face Detected: Unknown
+[12:42]: Face Detected: Unknown
+[12:42]: Face Detected: Unknown
+[12:42]: Face Detected: Charles
+[12:43]: Face Detected: Unknown
+[12:43]: Face Detected: Unknown
+[12:44]: Face Detected: Unknown
+[12:44]: Face Detected: Charles
+[12:45]: Face Detected: Unknown
+[12:46]: Face Detected: Unknown
+[12:46]: Face Detected: Charles
+[12:46]: Face Detected: Charles
+[12:46]: Face Detected: Unknown
+[12:46]: Face Detected: Charles
+[12:46]: Face Detected: Charles
+[12:47]: Face Detected: Charles
+[12:47]: Face Detected: Unknown
+[12:47]: Face Detected: Charles
+[12:48]: Face Detected: Unknown
+[12:48]: Face Detected: Unknown
+[12:48]: Face Detected: Unknown
+[12:48]: Face Detected: Unknown
+[12:49]: Face Detected: Charles
+[12:49]: Face Detected: Unknown
+[12:49]: Face Detected: Unknown
+[12:50]: Face Detected: Unknown
+[12:50]: Face Detected: Unknown
+[12:51]: Face Detected: Charles
+[12:51]: Face Detected: Unknown
+[12:51]: Face Detected: Unknown
+[12:51]: Face Detected: Charles
+[12:52]: Face Detected: Charles
+[12:52]: Face Detected: Unknown
+[12:52]: Face Detected: Unknown
+[12:53]: Face Detected: Unknown
+[12:53]: Face Detected: Unknown
+[12:53]: Face Detected: Unknown
+[12:54]: Face Detected: Unknown
+[12:54]: Face Detected: Unknown
+[12:54]: Face Detected: Unknown
+[12:54]: Face Detected: Unknown
+[12:57]: Face Detected: Unknown
+[12:57]: Face Detected: Unknown
+[12:57]: Face Detected: Charles
+[12:57]: Face Detected: Unknown
+[12:57]: Face Detected: Unknown
+[12:57]: Face Detected: Unknown
+[12:58]: Face Detected: Unknown
+[12:58]: Face Detected: Charles
+[12:58]: Face Detected: Charles
+[12:59]: Face Detected: Unknown
+[12:59]: Face Detected: Unknown
+[12:59]: Face Detected: Unknown
+[12:59]: Face Detected: Unknown
+[12:59]: Face Detected: Charles
+[12:59]: Face Detected: Charles
+[13:00]: Face Detected: Charles
+[13:00]: Face Detected: Charles
+[13:00]: Face Detected: Unknown
+[13:00]: Face Detected: Charles
+[13:00]: Face Detected: Charles
+[13:01]: Face Detected: Unknown
+[13:01]: Face Detected: Charles
+[13:01]: Face Detected: Unknown
+[13:01]: Face Detected: Unknown
+[13:01]: Face Detected: Unknown
+[13:02]: Face Detected: Charles
+[13:02]: Face Detected: Unknown
+[13:02]: Face Detected: Unknown
+[13:03]: Face Detected: Unknown
+[13:03]: Face Detected: Unknown
+[13:03]: Face Detected: Charles
+[13:03]: Face Detected: Charles
+[13:03]: Face Detected: Unknown
+[13:04]: Face Detected: Unknown
+[13:04]: Face Detected: Unknown
+[13:04]: Face Detected: Charles
+[13:04]: Face Detected: Charles
+[13:04]: Face Detected: Unknown
+[13:04]: Face Detected: Charles
+[13:05]: Face Detected: Unknown
+[13:05]: Face Detected: Charles
+[13:05]: Face Detected: Charles
+[13:05]: Face Detected: Charles
+[13:05]: Face Detected: Charles
+[13:06]: Face Detected: Charles
+[13:06]: Face Detected: Charles
+[13:06]: Face Detected: Charles
+[13:06]: Face Detected: Charles
+[13:06]: Face Detected: Charles
+[13:06]: Face Detected: Unknown
+[13:07]: Face Detected: Charles
+[13:07]: Face Detected: Unknown
+[13:07]: Face Detected: Charles
+[13:07]: Face Detected: Charles
+[13:07]: Face Detected: Unknown
+[13:08]: Face Detected: Charles
+[13:08]: Face Detected: Unknown
+[13:08]: Face Detected: Unknown
+[13:08]: Face Detected: Unknown
+[13:11]: Face Detected: Charles
+[13:11]: Face Detected: Unknown
+[13:12]: Face Detected: Unknown
+[13:12]: Face Detected: Unknown
+[13:12]: Face Detected: Unknown
+[13:13]: Face Detected: Unknown
+[13:13]: Face Detected: Charles
+[13:13]: Face Detected: Charles
+[13:13]: Face Detected: Unknown
+[13:24]: Face Detected: Unknown
+[13:24]: Face Detected: Unknown
+[13:25]: Face Detected: Charles
+[13:25]: Face Detected: Charles
+[13:25]: Face Detected: Unknown
+[13:25]: Face Detected: Unknown
+[13:26]: Face Detected: Unknown
+[13:26]: Face Detected: Charles
+[13:26]: Face Detected: Unknown
+[13:26]: Face Detected: Unknown
+[13:27]: Face Detected: Unknown
+[13:27]: Face Detected: Unknown
+[13:27]: Face Detected: Unknown
+[13:27]: Face Detected: Unknown
+[13:27]: Face Detected: Unknown
+[13:28]: Face Detected: Unknown
+[13:28]: Face Detected: Unknown
+[13:28]: Face Detected: Charles
+[13:29]: Face Detected: Charles
+[13:29]: Face Detected: Unknown
+[13:29]: Face Detected: Unknown
+[13:32]: Face Detected: Charles
+[13:32]: Face Detected: Unknown
+[13:33]: Face Detected: Charles
+[13:35]: Face Detected: Charles
+[13:36]: Face Detected: Charles
+[13:40]: Face Detected: Charles
+[13:40]: Face Detected: Charles
+[13:46]: Face Detected: Charles
+[13:46]: Face Detected: Charles
+[13:46]: Face Detected: Charles
+[13:46]: Face Detected: Charles
+[13:46]: Face Detected: Charles
+[13:47]: Face Detected: Unknown
+[13:47]: Face Detected: Charles
+[13:47]: Face Detected: Charles
+[13:47]: Face Detected: Charles
+[13:47]: Face Detected: Charles
+[13:47]: Face Detected: Charles
+[13:48]: Face Detected: Charles
+[13:48]: Face Detected: Charles
+[13:48]: Face Detected: Charles
+[13:48]: Face Detected: Unknown
+[13:48]: Face Detected: Unknown
+[13:48]: Face Detected: Unknown
+[13:49]: Face Detected: Unknown
+[13:49]: Face Detected: Unknown
+[13:49]: Face Detected: Charles
+[13:49]: Face Detected: Charles
+[13:50]: Face Detected: Charles
+[13:50]: Face Detected: Charles
+[13:50]: Face Detected: Charles
+[13:50]: Face Detected: Unknown
+[13:50]: Face Detected: Unknown
+[13:51]: Face Detected: Charles
+[13:51]: Face Detected: Charles
+[13:53]: Face Detected: Charles
+[13:53]: Face Detected: Charles
+[13:53]: Face Detected: Charles
+[13:53]: Face Detected: Charles
+[13:53]: Face Detected: Charles
+[13:54]: Face Detected: Unknown
+[13:54]: Face Detected: Unknown
+[13:57]: Face Detected: Unknown
+[13:57]: Face Detected: Unknown
+[13:59]: Face Detected: Unknown
+[13:59]: Face Detected: Charles
+[14:18]: Face Detected: Charles
+[14:18]: Face Detected: Unknown
+[14:19]: Face Detected: Charles
+[14:19]: Face Detected: Charles
+[14:19]: Face Detected: Charles
+[14:19]: Face Detected: Charles
+[14:19]: Face Detected: Charles
+[14:19]: Face Detected: Charles
+[14:20]: Face Detected: Charles
+[14:20]: Face Detected: Unknown
+[14:20]: Face Detected: Unknown
+[14:20]: Face Detected: Charles
+[14:21]: Face Detected: Charles
+[14:21]: Face Detected: Charles
+[14:21]: Face Detected: Charles
+[14:21]: Face Detected: Unknown
+[14:21]: Face Detected: Charles
+[14:21]: Face Detected: Unknown
+[14:22]: Face Detected: Unknown
+[14:22]: Face Detected: Charles
+[14:22]: Face Detected: Charles
+[14:22]: Face Detected: Charles
+[14:22]: Face Detected: Charles
+[14:23]: Face Detected: Charles
+[14:23]: Face Detected: Unknown
+[14:23]: Face Detected: Unknown
+[14:23]: Face Detected: Charles
+[14:23]: Face Detected: Charles
+[14:23]: Face Detected: Charles
+[14:23]: Face Detected: Unknown
+[14:24]: Face Detected: Unknown
+[14:24]: Face Detected: Charles
+[14:24]: Face Detected: Charles
+[14:24]: Face Detected: Unknown
+[14:24]: Face Detected: Charles
+[14:25]: Face Detected: Charles
+[14:25]: Face Detected: Charles
+[14:25]: Face Detected: Unknown
+[14:25]: Face Detected: Charles
+[14:25]: Face Detected: Charles
+[14:25]: Face Detected: Unknown
+[14:26]: Face Detected: Unknown
+[14:26]: Face Detected: Charles
+[14:26]: Face Detected: Charles
+[14:26]: Face Detected: Charles
+[14:27]: Face Detected: Charles
+[14:27]: Face Detected: Unknown
+[14:27]: Face Detected: Charles
+[14:27]: Face Detected: Unknown
+[14:27]: Face Detected: Unknown
+[14:28]: Face Detected: Charles
+[14:28]: Face Detected: Charles
+[14:28]: Face Detected: Charles
+[14:28]: Face Detected: Charles
+[14:28]: Face Detected: Charles
+[14:29]: Face Detected: Charles
+[14:29]: Face Detected: Charles
+[14:30]: Face Detected: Charles
+[14:30]: Face Detected: Charles
+[14:30]: Face Detected: Charles
+[14:30]: Face Detected: Charles
+[14:30]: Face Detected: Charles
+[14:30]: Face Detected: Charles
+[14:31]: Face Detected: Charles
+[14:31]: Face Detected: Charles
+[14:31]: Face Detected: Charles
+[14:31]: Face Detected: Charles
+[14:31]: Face Detected: Charles
+[14:31]: Face Detected: Charles
+[14:32]: Face Detected: Charles
+[14:32]: Face Detected: Charles
+[14:32]: Face Detected: Charles
+[14:32]: Face Detected: Charles
+[14:32]: Face Detected: Charles
+[14:32]: Face Detected: Charles
+[14:33]: Face Detected: Charles
+[14:33]: Face Detected: Unknown
+[14:33]: Face Detected: Unknown
+[14:33]: Face Detected: Charles
+[14:33]: Face Detected: Unknown
+[14:34]: Face Detected: Charles
+[14:34]: Face Detected: Charles
+[14:34]: Face Detected: Unknown
+[14:34]: Face Detected: Charles
+[14:34]: Face Detected: Charles
+[14:34]: Face Detected: Charles
+[14:34]: Face Detected: Charles
+[14:35]: Face Detected: Charles
+[14:35]: Face Detected: Charles
+[14:35]: Face Detected: Charles
+[14:35]: Face Detected: Charles
+[14:35]: Face Detected: Unknown
+[14:35]: Face Detected: Charles
+[14:36]: Face Detected: Charles
+[14:36]: Face Detected: Charles
+[14:36]: Face Detected: Charles
+[14:36]: Face Detected: Charles
+[14:36]: Face Detected: Charles
+[14:37]: Face Detected: Charles
+[14:37]: Face Detected: Charles
+[14:37]: Face Detected: Charles
+[14:37]: Face Detected: Charles
+[14:37]: Face Detected: Charles
+[14:37]: Face Detected: Charles
+[14:38]: Face Detected: Charles
+[14:42]: Face Detected: Charles
+[14:42]: Face Detected: Unknown
+[14:42]: Face Detected: Charles
+[14:43]: Face Detected: Charles
+[14:59]: Face Detected: Charles
+[15:00]: Face Detected: Charles
+[15:00]: Face Detected: Charles
+[15:00]: Face Detected: Charles
+[15:00]: Face Detected: Charles
+[15:00]: Face Detected: Charles
+[15:00]: Face Detected: Charles
+[15:01]: Face Detected: Charles
+[15:01]: Face Detected: Charles
+[15:01]: Face Detected: Charles
+[15:01]: Face Detected: Charles
+[15:01]: Face Detected: Charles
+[15:02]: Face Detected: Charles
+[15:02]: Face Detected: Charles
+[15:02]: Face Detected: Charles
+[15:02]: Face Detected: Charles
+[15:02]: Face Detected: Unknown
+[15:02]: Face Detected: Charles
+[15:03]: Face Detected: Charles
+[15:08]: Face Detected: Charles
+[15:08]: Face Detected: Charles
+[15:08]: Face Detected: Charles
+[15:12]: Face Detected: Charles
+[15:12]: Face Detected: Charles
+[15:12]: Face Detected: Unknown
+[15:12]: Face Detected: Charles
+[15:12]: Face Detected: Charles
+[15:13]: Face Detected: Unknown
+[15:13]: Face Detected: Charles
+[15:13]: Face Detected: Charles
+[15:13]: Face Detected: Charles
+[15:14]: Face Detected: Charles
+[15:14]: Face Detected: Charles
+[15:14]: Face Detected: Unknown
+[15:14]: Face Detected: Unknown
+[15:14]: Face Detected: Charles
+[15:14]: Face Detected: Unknown
+[15:14]: Face Detected: Charles
+[15:15]: Face Detected: Charles
+[15:15]: Face Detected: Charles
+[15:15]: Face Detected: Unknown
+[15:15]: Face Detected: Unknown
+[15:15]: Face Detected: Unknown
+[15:15]: Face Detected: Charles
+[15:16]: Face Detected: Charles
+[15:16]: Face Detected: Charles
+[15:16]: Face Detected: Charles
+[15:16]: Face Detected: Charles
+[15:16]: Face Detected: Charles
+[15:19]: Face Detected: Charles
+[15:19]: Face Detected: Unknown
+[15:24]: Face Detected: Charles
+[15:24]: Face Detected: Charles
+[15:26]: Face Detected: Charles
+[15:26]: Face Detected: Charles
+[15:26]: Face Detected: Unknown
+[15:26]: Face Detected: Unknown
+[15:27]: Face Detected: Unknown
+[15:27]: Face Detected: Unknown
+[15:28]: Face Detected: Unknown
+[15:29]: Face Detected: Unknown
+[15:29]: Face Detected: Unknown
+[15:30]: Face Detected: Unknown
+[15:30]: Face Detected: Unknown
+[15:30]: Face Detected: Unknown
+[15:31]: Face Detected: Unknown
+[15:31]: Face Detected: Unknown
+[15:31]: Face Detected: Unknown
+[15:32]: Face Detected: Unknown
+[15:34]: Face Detected: Charles
+[15:34]: Face Detected: Unknown
+[15:35]: Face Detected: Unknown
+[18:18]: Motion Detected
+[18:18]: Motion Detected
+[18:19]: Face Detected: Unknown
+[18:19]: Face Detected: Charles
+[18:19]: Face Detected: Unknown
+[18:19]: Face Detected: Charles
+[18:19]: Face Detected: Charles
+[18:19]: Face Detected: Charles
+[18:38]: Motion Detected
+[18:38]: Motion Detected
+[18:38]: Face Detected: Charles
+[18:38]: Face Detected: Charles
+[18:39]: Face Detected: Charles
+[18:39]: Face Detected: Charles
+[18:39]: Face Detected: Charles
+[18:39]: Face Detected: Charles
+[18:39]: Face Detected: Charles
+[18:39]: Face Detected: Unknown
+[18:40]: Motion Detected
+[18:40]: Face Detected: Unknown
+[18:40]: Motion Detected
+[18:40]: Motion Detected
+[18:40]: Face Detected: Unknown
+[18:40]: Face Detected: Unknown
+[18:41]: Face Detected: Charles
+[18:41]: Face Detected: Charles
+[18:41]: Face Detected: Charles
+[18:41]: Face Detected: Unknown
+[18:41]: Motion Detected
+[18:41]: Motion Detected
+[18:41]: Face Detected: Unknown
+[18:42]: Motion Detected
+[18:42]: Face Detected: Charles
+[18:42]: Face Detected: Unknown
+[18:42]: Face Detected: Charles
+[18:42]: Face Detected: Charles
+[18:43]: Face Detected: Charles
+[18:43]: Face Detected: Charles
+[18:43]: Face Detected: Charles
+[18:43]: Face Detected: Unknown
+[18:43]: Motion Detected
+[18:43]: Face Detected: Charles
+[18:43]: Face Detected: Charles
+[18:44]: Face Detected: Charles
+[18:44]: Face Detected: Unknown
+[18:44]: Face Detected: Charles
+[18:44]: Face Detected: Unknown
+[18:44]: Motion Detected
+[18:44]: Face Detected: Charles
+[18:44]: Motion Detected
+[18:45]: Motion Detected
+[18:45]: Motion Detected
+[18:45]: Motion Detected
+[18:45]: Face Detected: Unknown
+[18:46]: Face Detected: Unknown
+[18:46]: Face Detected: Charles
+[18:46]: Motion Detected
+[18:46]: Face Detected: Unknown
+[18:46]: Face Detected: Charles
+[18:46]: Face Detected: Charles
+[18:46]: Face Detected: Unknown
+[18:46]: Face Detected: Charles
+[18:47]: Face Detected: Charles
+[18:47]: Motion Detected
+[18:47]: Motion Detected
+[18:47]: Motion Detected
+[18:47]: Face Detected: Charles
+[18:47]: Face Detected: Charles
+[18:48]: Face Detected: Charles
+[18:48]: Motion Detected
+[18:48]: Face Detected: Unknown
+[18:50]: Motion Detected
+[18:50]: Face Detected: Unknown
+[18:50]: Motion Detected
+[18:50]: Motion Detected
+[18:50]: Face Detected: Unknown
+[18:50]: Face Detected: Charles
+[18:51]: Face Detected: Charles
+[18:51]: Face Detected: Charles
+[18:51]: Face Detected: Charles
+[18:51]: Face Detected: Unknown
+[18:52]: Motion Detected
+[18:52]: Face Detected: Unknown
+[18:52]: Face Detected: Charles
+[18:52]: Face Detected: Unknown
+[18:52]: Motion Detected
+[19:00]: Motion Detected
+[19:36]: Motion Detected
+[19:36]: Face Detected: Charles
+[19:36]: Face Detected: Unknown
+[19:36]: Motion Detected
+[19:36]: Face Detected: Charles
+[19:36]: Motion Detected
+[19:36]: Face Detected: Charles
+[19:37]: Motion Detected
+[19:37]: Face Detected: Charles
+[19:37]: Motion Detected
+[19:37]: Face Detected: Charles
+[19:37]: Face Detected: Unknown
+[19:37]: Motion Detected
+[19:37]: Face Detected: Charles
+[19:37]: Motion Detected
+[19:38]: Motion Detected
+[19:38]: Face Detected: Charles
+[20:04]: Motion Detected
+[20:04]: Face Detected: Charles
+[20:05]: Face Detected: Unknown
+[20:05]: Motion Detected
+[20:05]: Face Detected: Charles
+[20:05]: Motion Detected
+[20:05]: Face Detected: Charles
+[20:05]: Motion Detected
+[20:05]: Face Detected: Charles
+[20:05]: Motion Detected
+[20:05]: Face Detected: Unknown
+[20:05]: Motion Detected
+[20:05]: Motion Detected
+[20:05]: Face Detected: Charles
+[20:06]: Motion Detected
+[20:06]: Motion Detected
+[20:06]: Motion Detected
+[20:06]: Motion Detected
+[20:06]: Face Detected: Charles
+[20:06]: Motion Detected
+[20:06]: Face Detected: Unknown
+[20:07]: Motion Detected
+[20:07]: Face Detected: Unknown
+[20:07]: Motion Detected
+[20:07]: Face Detected: Unknown
+[20:07]: Face Detected: Unknown
+[20:07]: Motion Detected
+[20:07]: Face Detected: Charles
+[20:07]: Motion Detected
+[20:07]: Face Detected: Charles
+[20:08]: Face Detected: Unknown
+[20:08]: Motion Detected
+[20:08]: Face Detected: Charles
+[20:08]: Motion Detected
+[20:08]: Face Detected: Unknown
+[20:08]: Face Detected: Charles
+[20:08]: Motion Detected
+[20:08]: Face Detected: Charles
+[20:08]: Motion Detected
+[20:08]: Face Detected: Charles
+[20:08]: Motion Detected
+[20:08]: Face Detected: Charles
+[20:13]: Motion Detected
+[20:13]: Face Detected: Charles
+[20:13]: Motion Detected
+[20:13]: Face Detected: Charles
+[20:13]: Motion Detected
+[20:13]: Face Detected: Charles
+[20:24]: Motion Detected
+[20:24]: Face Detected: Charles
+[20:24]: Motion Detected
+[20:24]: Face Detected: Charles
+[20:24]: Motion Detected
+[20:24]: Face Detected: Charles
+[20:24]: Face Detected: Unknown
+[20:24]: Motion Detected
+[20:24]: Face Detected: Charles
+[20:24]: Motion Detected
+[20:24]: Motion Detected
+[20:25]: Face Detected: Unknown
+[20:25]: Face Detected: Charles
+[20:25]: Motion Detected
+[20:25]: Face Detected: Charles
+[20:25]: Motion Detected
+[20:25]: Face Detected: Unknown
+[20:25]: Face Detected: Charles
+[20:25]: Motion Detected
+[20:25]: Face Detected: Unknown
+[20:25]: Motion Detected
+[20:25]: Face Detected: Charles
+[20:25]: Motion Detected
+[20:25]: Face Detected: Charles
+[20:26]: Motion Detected
+[20:26]: Motion Detected
+[20:26]: Face Detected: Charles
+[20:26]: Motion Detected
+[20:26]: Face Detected: Charles
+[20:26]: Motion Detected
+[20:26]: Face Detected: Charles
+[20:27]: Motion Detected
+[20:27]: Face Detected: Charles
+[20:27]: Motion Detected
+[20:27]: Face Detected: Charles
+[20:27]: Face Detected: Unknown
+[20:27]: Motion Detected
+[20:27]: Face Detected: Charles
+[20:27]: Motion Detected
+[20:27]: Face Detected: Charles
+[20:27]: Motion Detected
+[20:27]: Face Detected: Unknown
+[20:28]: Face Detected: Charles
+[20:28]: Motion Detected
+[20:28]: Face Detected: Charles
+[20:28]: Motion Detected
+[20:28]: Face Detected: Charles
+[20:28]: Motion Detected
+[20:28]: Face Detected: Charles
+[20:29]: Motion Detected
+[20:29]: Face Detected: Charles
+[20:29]: Face Detected: Unknown
+[20:29]: Motion Detected
+[20:29]: Face Detected: Charles
+[20:29]: Motion Detected
+[20:29]: Face Detected: Charles
+[20:29]: Motion Detected
+[20:29]: Face Detected: Charles
+[20:29]: Face Detected: Unknown
+[20:29]: Motion Detected
+[20:30]: Face Detected: Charles
+[20:30]: Motion Detected
+[20:30]: Face Detected: Charles
+[20:30]: Motion Detected
+[20:30]: Face Detected: Charles
+[20:30]: Motion Detected
+[20:30]: Face Detected: Charles
+[20:30]: Motion Detected
+[20:30]: Face Detected: Charles
+[20:30]: Motion Detected
+[20:30]: Face Detected: Charles
+[20:31]: Motion Detected
+[20:31]: Face Detected: Charles
+[20:31]: Motion Detected
+[20:31]: Face Detected: Charles
+[20:31]: Face Detected: Unknown
+[20:31]: Motion Detected
+[20:31]: Face Detected: Charles
+[20:31]: Face Detected: Unknown
+[20:31]: Motion Detected
+[20:31]: Face Detected: Charles
+[20:31]: Motion Detected
+[20:31]: Face Detected: Charles
+[20:31]: Face Detected: Unknown
+[20:32]: Motion Detected
+[20:32]: Face Detected: Charles
+[20:32]: Motion Detected
+[20:32]: Face Detected: Charles
+[20:32]: Motion Detected
+[20:32]: Face Detected: Charles
+[20:32]: Motion Detected
+[20:32]: Face Detected: Charles
+[20:32]: Motion Detected
+[20:32]: Face Detected: Charles
+[20:33]: Motion Detected
+[20:33]: Face Detected: Charles
+[20:33]: Face Detected: Unknown
+[20:36]: Motion Detected
+[20:36]: Face Detected: Charles
+[20:36]: Motion Detected
+[20:36]: Face Detected: Charles
+[20:36]: Motion Detected
+[20:36]: Face Detected: Charles
+[20:36]: Motion Detected
+[20:36]: Face Detected: Charles
+[20:37]: Motion Detected
+[20:37]: Face Detected: Charles
+[20:37]: Face Detected: Unknown
+[20:37]: Motion Detected
+[20:37]: Face Detected: Charles
+[20:39]: Motion Detected
+[20:39]: Face Detected: Charles
+[20:39]: Motion Detected
+[20:39]: Face Detected: Charles
+[20:39]: Motion Detected
+[20:39]: Face Detected: Charles
+[20:39]: Face Detected: Unknown
+[20:39]: Motion Detected
+[20:39]: Face Detected: Charles
+[20:40]: Motion Detected
+[20:40]: Face Detected: Charles
+[20:40]: Motion Detected
+[20:40]: Face Detected: Charles
+[20:40]: Motion Detected
+[20:40]: Face Detected: Charles
+[20:40]: Motion Detected
+[20:40]: Face Detected: Charles
+[20:40]: Motion Detected
+[20:40]: Face Detected: Charles
+[20:40]: Motion Detected
+[20:40]: Face Detected: Charles
+[20:41]: Motion Detected
+[20:41]: Face Detected: Charles
+[20:41]: Motion Detected
+[20:41]: Face Detected: Charles
+[20:41]: Motion Detected
+[20:41]: Face Detected: Charles
+[20:41]: Motion Detected
+[20:41]: Face Detected: Charles
+[20:41]: Motion Detected
+[20:41]: Face Detected: Charles
+[20:41]: Motion Detected
+[20:41]: Face Detected: Charles
+[20:41]: Face Detected: Unknown
+[20:42]: Motion Detected
+[20:42]: Face Detected: Charles
+[20:42]: Motion Detected
+[20:42]: Face Detected: Charles
+[20:42]: Motion Detected
+[20:42]: Face Detected: Charles
+[20:42]: Motion Detected
+[20:42]: Face Detected: Charles
+[20:42]: Motion Detected
+[20:42]: Face Detected: Charles
+[20:42]: Motion Detected
+[20:42]: Face Detected: Charles
+[20:42]: Face Detected: Unknown
+[20:43]: Motion Detected
+[20:43]: Face Detected: Charles
+[20:43]: Motion Detected
+[20:43]: Face Detected: Charles
+[20:43]: Motion Detected
+[20:43]: Face Detected: Charles
+[20:43]: Face Detected: Unknown
+[20:43]: Motion Detected
+[20:43]: Face Detected: Charles
+[20:43]: Motion Detected
+[20:43]: Face Detected: Unknown
+[20:43]: Face Detected: Charles
+[20:43]: Motion Detected
+[20:44]: Face Detected: Charles
+[20:44]: Motion Detected
+[20:44]: Face Detected: Charles
+[20:44]: Motion Detected
+[20:44]: Face Detected: Unknown
+[20:44]: Face Detected: Charles
+[20:44]: Motion Detected
+[20:44]: Face Detected: Charles
+[20:44]: Motion Detected
+[20:44]: Face Detected: Unknown
+[20:44]: Face Detected: Charles
+[20:44]: Motion Detected
+[20:44]: Face Detected: Charles
+[20:44]: Motion Detected
+[20:45]: Face Detected: Charles
+[20:45]: Face Detected: Unknown
+[20:45]: Motion Detected
+[20:45]: Face Detected: Unknown
+[20:45]: Motion Detected
+[20:45]: Face Detected: Charles
+[20:45]: Motion Detected
+[20:45]: Face Detected: Charles
+[20:45]: Motion Detected
+[20:45]: Face Detected: Charles
+[20:45]: Motion Detected
+[20:45]: Face Detected: Charles
+[20:45]: Motion Detected
+[20:46]: Face Detected: Charles
+[20:46]: Motion Detected
+[20:46]: Face Detected: Charles
+[20:46]: Motion Detected
+[20:46]: Face Detected: Charles
+[20:46]: Motion Detected
+[20:46]: Face Detected: Charles
+[20:46]: Motion Detected
+[20:46]: Face Detected: Charles
+[20:46]: Motion Detected
+[20:46]: Face Detected: Charles
+[20:46]: Motion Detected
+[20:47]: Face Detected: Charles
+[20:47]: Motion Detected
+[20:47]: Face Detected: Charles
+[20:47]: Face Detected: Unknown
+[20:47]: Motion Detected
+[20:47]: Motion Detected
+[20:47]: Motion Detected
+[20:47]: Motion Detected
+[20:47]: Face Detected: Charles
+[20:47]: Face Detected: Unknown
+[20:47]: Motion Detected
+[20:48]: Face Detected: Unknown
+[20:48]: Motion Detected
+[20:48]: Face Detected: Charles
+[20:48]: Face Detected: Unknown
+[20:48]: Motion Detected
+[20:48]: Motion Detected
+[20:48]: Face Detected: Charles
+[20:48]: Face Detected: Unknown
+[20:48]: Motion Detected
+[20:49]: Motion Detected
+[20:50]: Motion Detected
+[20:52]: Motion Detected
+[20:53]: Motion Detected
+[20:53]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[20:53]: Motion Detected
+[20:53]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[20:55]: Motion Detected
+[20:55]: Face Detected: Charles
+[20:55]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[20:55]: Motion Detected
+[20:55]: Face Detected: Charles
+[20:55]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[20:55]: Motion Detected
+[20:55]: Face Detected: Charles
+[20:55]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[20:55]: Motion Detected
+[20:55]: Face Detected: Charles
+[20:55]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[20:55]: Face Detected: Unknown
+[20:55]: Motion Detected
+[20:55]: Face Detected: Charles
+[20:55]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[20:55]: Face Detected: Unknown
+[20:55]: Motion Detected
+[20:56]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[20:56]: Face Detected: Charles
+[20:56]: Motion Detected
+[20:56]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[20:56]: Face Detected: Charles
+[20:56]: Face Detected: Unknown
+[20:56]: Motion Detected
+[20:56]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[20:56]: Face Detected: Charles
+[20:56]: Motion Detected
+[20:56]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[20:56]: Face Detected: Charles
+[20:56]: Motion Detected
+[20:56]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[20:56]: Face Detected: Charles
+[20:56]: Face Detected: Unknown
+[20:56]: Motion Detected
+[20:57]: Motion Detected
+[20:57]: Face Detected: Charles
+[20:57]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[20:57]: Motion Detected
+[20:57]: Face Detected: Charles
+[20:57]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[20:57]: Face Detected: Unknown
+[21:00]: Motion Detected
+[21:00]: Face Detected: Charles
+[21:00]: Face Detected: Unknown
+[21:00]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[21:00]: Motion Detected
+[21:00]: Face Detected: Charles
+[21:00]: Face Detected: Unknown
+[21:00]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[21:00]: Motion Detected
+[21:00]: Face Detected: Charles
+[21:00]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[21:00]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[21:01]: Motion Detected
+[21:01]: Face Detected: Charles
+[21:01]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[21:01]: Motion Detected
+[21:01]: Face Detected: Charles
+[21:01]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[21:01]: Motion Detected
+[21:01]: Face Detected: Charles
+[21:01]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[21:08]: Motion Detected
+[21:08]: Face Detected: Charles
+[21:08]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[21:08]: Motion Detected
+[21:08]: Face Detected: Charles
+[21:08]: Face Detected: Unknown
+[21:08]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[21:08]: Motion Detected
+[21:08]: Face Detected: Charles
+[21:08]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[21:08]: Face Detected: Unknown
+[21:08]: Motion Detected
+[21:08]: Face Detected: Charles
+[21:08]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[21:08]: Motion Detected
+[21:08]: Face Detected: Charles
+[21:08]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[21:08]: Face Detected: Unknown
+[21:08]: Motion Detected
+[21:08]: Face Detected: Charles
+[21:09]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[21:09]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[21:09]: Motion Detected
+[21:09]: Face Detected: Charles
+[21:09]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[21:09]: Motion Detected
+[21:09]: Face Detected: Charles
+[21:09]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[21:09]: Motion Detected
+[21:09]: Face Detected: Charles
+[21:09]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[21:09]: Motion Detected
+[21:09]: Face Detected: Charles
+[21:09]: Email sent to Charlesadrian49@gmail.com with image attachment.
+[21:09]: Motion Detected
+[21:09]: Face Detected: Charles
+[21:09]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:10]: Motion Detected
+[21:10]: Face Detected: Charles
+[21:10]: Face Detected: Unknown
+[21:10]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:10]: Motion Detected
+[21:10]: Face Detected: Charles
+[21:10]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:10]: Motion Detected
+[21:10]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:10]: Face Detected: Charles
+[21:10]: Face Detected: Unknown
+[21:10]: Motion Detected
+[21:10]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:10]: Face Detected: Charles
+[21:10]: Motion Detected
+[21:10]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:10]: Face Detected: Unknown
+[21:10]: Face Detected: Charles
+[21:10]: Motion Detected
+[21:11]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:11]: Motion Detected
+[21:11]: Face Detected: Charles
+[21:11]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:11]: Motion Detected
+[21:11]: Face Detected: Charles
+[21:11]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:11]: Motion Detected
+[21:11]: Face Detected: Charles
+[21:11]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:11]: Motion Detected
+[21:11]: Face Detected: Charles
+[21:11]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:11]: Motion Detected
+[21:11]: Face Detected: Charles
+[21:11]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:11]: Face Detected: Unknown
+[21:11]: Motion Detected
+[21:12]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:12]: Face Detected: Charles
+[21:12]: Motion Detected
+[21:12]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:12]: Face Detected: Charles
+[21:12]: Motion Detected
+[21:12]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:12]: Face Detected: Charles
+[21:12]: Motion Detected
+[21:12]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:12]: Face Detected: Charles
+[21:12]: Motion Detected
+[21:12]: Face Detected: Unknown
+[21:12]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:18]: Motion Detected
+[21:18]: Face Detected: Charles
+[21:18]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:18]: Motion Detected
+[21:18]: Face Detected: Charles
+[21:18]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:18]: Motion Detected
+[21:18]: Face Detected: Charles
+[21:18]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:18]: Motion Detected
+[21:18]: Face Detected: Charles
+[21:18]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:18]: Motion Detected
+[21:18]: Face Detected: Charles
+[21:18]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:19]: Motion Detected
+[21:19]: Face Detected: Charles
+[21:19]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:19]: Face Detected: Unknown
+[21:19]: Motion Detected
+[21:19]: Face Detected: Charles
+[21:19]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:19]: Motion Detected
+[21:19]: Face Detected: Charles
+[21:19]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:19]: Motion Detected
+[21:19]: Face Detected: Charles
+[21:19]: Face Detected: Unknown
+[21:19]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:19]: Motion Detected
+[21:19]: Face Detected: Charles
+[21:19]: Face Detected: Unknown
+[21:19]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:19]: Motion Detected
+[21:19]: Face Detected: Charles
+[21:19]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:20]: Motion Detected
+[21:20]: Face Detected: Charles
+[21:20]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:20]: Motion Detected
+[21:20]: Face Detected: Charles
+[21:20]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:20]: Motion Detected
+[21:20]: Face Detected: Charles
+[21:20]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:20]: Motion Detected
+[21:20]: Face Detected: Charles
+[21:20]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:20]: Motion Detected
+[21:20]: Face Detected: Charles
+[21:20]: Face Detected: Unknown
+[21:20]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:20]: Motion Detected
+[21:20]: Face Detected: Charles
+[21:20]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:21]: Motion Detected
+[21:21]: Face Detected: Charles
+[21:21]: Face Detected: Unknown
+[21:21]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:21]: Motion Detected
+[21:21]: Face Detected: Charles
+[21:21]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:21]: Face Detected: Unknown
+[21:21]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:21]: Motion Detected
+[21:21]: Face Detected: Charles
+[21:21]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:21]: Face Detected: Unknown
+[21:21]: Motion Detected
+[21:21]: Face Detected: Charles
+[21:21]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:21]: Motion Detected
+[21:21]: Face Detected: Charles
+[21:21]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:21]: Motion Detected
+[21:21]: Face Detected: Charles
+[21:21]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:22]: Motion Detected
+[21:22]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:22]: Motion Detected
+[21:22]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:22]: Face Detected: Charles
+[21:22]: Motion Detected
+[21:22]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:22]: Face Detected: Unknown
+[21:22]: Face Detected: Charles
+[21:22]: Motion Detected
+[21:22]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:22]: Face Detected: Charles
+[21:22]: Motion Detected
+[21:22]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:22]: Face Detected: Charles
+[21:22]: Motion Detected
+[21:22]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:22]: Face Detected: Charles
+[21:23]: Motion Detected
+[21:23]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:23]: Face Detected: Charles
+[21:23]: Motion Detected
+[21:23]: Face Detected: Unknown
+[21:23]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:23]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:23]: Motion Detected
+[21:23]: Face Detected: Charles
+[21:23]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:23]: Motion Detected
+[21:23]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:23]: Face Detected: Charles
+[21:23]: Motion Detected
+[21:23]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:23]: Face Detected: Charles
+[21:23]: Motion Detected
+[21:23]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:23]: Face Detected: Charles
+[21:24]: Motion Detected
+[21:24]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:24]: Face Detected: Charles
+[21:24]: Motion Detected
+[21:24]: Face Detected: Unknown
+[21:24]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:24]: Face Detected: Charles
+[21:24]: Motion Detected
+[21:24]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:24]: Face Detected: Charles
+[21:24]: Motion Detected
+[21:24]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:24]: Face Detected: Charles
+[21:24]: Motion Detected
+[21:24]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:24]: Face Detected: Charles
+[21:24]: Motion Detected
+[21:24]: Face Detected: Unknown
+[21:24]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:25]: Face Detected: Charles
+[21:25]: Motion Detected
+[21:25]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:25]: Face Detected: Charles
+[21:25]: Motion Detected
+[21:25]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:25]: Face Detected: Charles
+[21:25]: Motion Detected
+[21:25]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:25]: Motion Detected
+[21:25]: Face Detected: Charles
+[21:25]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:25]: Face Detected: Unknown
+[21:25]: Motion Detected
+[21:25]: Face Detected: Charles
+[21:25]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:25]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:25]: Motion Detected
+[21:25]: Face Detected: Charles
+[21:25]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:26]: Face Detected: Unknown
+[21:26]: Motion Detected
+[21:26]: Face Detected: Charles
+[21:26]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:26]: Motion Detected
+[21:26]: Face Detected: Charles
+[21:26]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:26]: Motion Detected
+[21:26]: Face Detected: Charles
+[21:26]: Face Detected: Unknown
+[21:26]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:26]: Motion Detected
+[21:26]: Face Detected: Charles
+[21:26]: Face Detected: Unknown
+[21:26]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:26]: Motion Detected
+[21:26]: Face Detected: Charles
+[21:26]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:26]: Motion Detected
+[21:26]: Face Detected: Charles
+[21:26]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:26]: Face Detected: Unknown
+[21:27]: Motion Detected
+[21:27]: Face Detected: Charles
+[21:27]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:27]: Motion Detected
+[21:27]: Face Detected: Charles
+[21:27]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:27]: Motion Detected
+[21:27]: Face Detected: Charles
+[21:27]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:27]: Motion Detected
+[21:27]: Face Detected: Charles
+[21:27]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:27]: Motion Detected
+[21:27]: Face Detected: Charles
+[21:27]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:27]: Motion Detected
+[21:27]: Face Detected: Charles
+[21:27]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:28]: Motion Detected
+[21:28]: Face Detected: Charles
+[21:28]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:28]: Motion Detected
+[21:28]: Face Detected: Charles
+[21:28]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:28]: Face Detected: Unknown
+[21:28]: Motion Detected
+[21:28]: Face Detected: Charles
+[21:28]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:28]: Motion Detected
+[21:28]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:28]: Face Detected: Charles
+[21:28]: Motion Detected
+[21:28]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:28]: Face Detected: Charles
+[21:28]: Face Detected: Unknown
+[21:28]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:28]: Motion Detected
+[21:28]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:28]: Face Detected: Charles
+[21:29]: Motion Detected
+[21:29]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:29]: Face Detected: Charles
+[21:29]: Motion Detected
+[21:29]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:29]: Face Detected: Charles
+[21:29]: Motion Detected
+[21:29]: Face Detected: Charles
+[21:29]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:29]: Motion Detected
+[21:29]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:29]: Face Detected: Charles
+[21:29]: Face Detected: Unknown
+[21:29]: Motion Detected
+[21:29]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:29]: Face Detected: Charles
+[21:29]: Motion Detected
+[21:29]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:29]: Face Detected: Charles
+[21:30]: Motion Detected
+[21:30]: Face Detected: Charles
+[21:30]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:30]: Motion Detected
+[21:30]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:30]: Face Detected: Charles
+[21:30]: Motion Detected
+[21:30]: Face Detected: Charles
+[21:30]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:30]: Motion Detected
+[21:30]: Face Detected: Charles
+[21:30]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:30]: Motion Detected
+[21:30]: Face Detected: Charles
+[21:30]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:30]: Motion Detected
+[21:30]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:30]: Face Detected: Charles
+[21:31]: Face Detected: Unknown
+[21:31]: Motion Detected
+[21:31]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:31]: Face Detected: Charles
+[21:31]: Motion Detected
+[21:31]: Face Detected: Charles
+[21:31]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:31]: Motion Detected
+[21:31]: Face Detected: Charles
+[21:31]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:31]: Motion Detected
+[21:31]: Face Detected: Charles
+[21:31]: Face Detected: Unknown
+[21:31]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:31]: Motion Detected
+[21:31]: Face Detected: Charles
+[21:31]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:31]: Motion Detected
+[21:31]: Face Detected: Charles
+[21:31]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:32]: Face Detected: Unknown
+[21:32]: Motion Detected
+[21:32]: Face Detected: Charles
+[21:32]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:32]: Motion Detected
+[21:32]: Face Detected: Charles
+[21:32]: Face Detected: Unknown
+[21:32]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:32]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:32]: Motion Detected
+[21:32]: Face Detected: Unknown
+[21:32]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:32]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:32]: Motion Detected
+[21:32]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:32]: Face Detected: Charles
+[21:32]: Motion Detected
+[21:32]: Face Detected: Charles
+[21:32]: Face Detected: Unknown
+[21:32]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:33]: Motion Detected
+[21:33]: Face Detected: Charles
+[21:33]: Face Detected: Unknown
+[21:33]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[21:33]: Motion Detected
+[21:33]: Face Detected: Charles
+[21:33]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:33]: Face Detected: Unknown
+[21:33]: Motion Detected
+[21:33]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:33]: Face Detected: Unknown
+[21:33]: Motion Detected
+[21:33]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:33]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:33]: Face Detected: Unknown
+[21:33]: Face Detected: Charles
+[21:33]: Motion Detected
+[21:33]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:33]: Motion Detected
+[21:33]: Face Detected: Unknown
+[21:33]: Face Detected: Charles
+[21:34]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:34]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:34]: Motion Detected
+[21:34]: Face Detected: Unknown
+[21:34]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:34]: Motion Detected
+[21:34]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:34]: Face Detected: Unknown
+[21:34]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:34]: Face Detected: Charles
+[21:34]: Motion Detected
+[21:34]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:34]: Face Detected: Unknown
+[21:34]: Motion Detected
+[21:34]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:34]: Face Detected: Charles
+[21:34]: Face Detected: Unknown
+[21:34]: Motion Detected
+[21:34]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:34]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:34]: Face Detected: Unknown
+[21:34]: Motion Detected
+[21:34]: Face Detected: Charles
+[21:34]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:35]: Motion Detected
+[21:35]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:35]: Motion Detected
+[21:35]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:35]: Face Detected: Charles
+[21:35]: Motion Detected
+[21:35]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:35]: Motion Detected
+[21:35]: Face Detected: Charles
+[21:35]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:35]: Face Detected: Unknown
+[21:35]: Motion Detected
+[21:35]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:35]: Face Detected: Charles
+[21:36]: Motion Detected
+[21:36]: Face Detected: Charles
+[21:36]: Face Detected: Unknown
+[21:36]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:36]: Motion Detected
+[21:36]: Face Detected: Charles
+[21:36]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:36]: Face Detected: Unknown
+[21:36]: Motion Detected
+[21:36]: Face Detected: Charles
+[21:36]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:36]: Face Detected: Unknown
+[21:36]: Motion Detected
+[21:36]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:36]: Motion Detected
+[21:36]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:36]: Face Detected: Unknown
+[21:36]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:36]: Face Detected: Charles
+[21:37]: Motion Detected
+[21:37]: Motion Detected
+[21:37]: Face Detected: Charles
+[21:37]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:37]: Face Detected: Unknown
+[21:37]: Motion Detected
+[21:37]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:37]: Face Detected: Charles
+[21:37]: Face Detected: Unknown
+[21:37]: Motion Detected
+[21:37]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:37]: Motion Detected
+[21:37]: Face Detected: Charles
+[21:37]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:37]: Motion Detected
+[21:37]: Face Detected: Charles
+[21:37]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:37]: Face Detected: Unknown
+[21:38]: Motion Detected
+[21:38]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:38]: Face Detected: Charles
+[21:38]: Motion Detected
+[21:38]: Face Detected: Unknown
+[21:38]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:38]: Motion Detected
+[21:38]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:38]: Face Detected: Charles
+[21:38]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:38]: Motion Detected
+[21:38]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:38]: Face Detected: Unknown
+[21:38]: Motion Detected
+[21:38]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:38]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:38]: Motion Detected
+[21:38]: Face Detected: Unknown
+[21:38]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:38]: Face Detected: Charles
+[21:39]: Motion Detected
+[21:39]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:39]: Face Detected: Unknown
+[21:39]: Face Detected: Charles
+[21:39]: Motion Detected
+[21:39]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:39]: Motion Detected
+[21:39]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:39]: Face Detected: Charles
+[21:39]: Motion Detected
+[21:39]: Face Detected: Unknown
+[21:39]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:39]: Motion Detected
+[21:39]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:39]: Face Detected: Charles
+[21:39]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:39]: Face Detected: Unknown
+[21:39]: Motion Detected
+[21:40]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:40]: Face Detected: Charles
+[21:40]: Motion Detected
+[21:40]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:40]: Face Detected: Charles
+[21:40]: Face Detected: Unknown
+[21:40]: Motion Detected
+[21:40]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:40]: Motion Detected
+[21:40]: Face Detected: Charles
+[21:40]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:40]: Motion Detected
+[21:40]: Face Detected: Charles
+[21:40]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:40]: Face Detected: Unknown
+[21:40]: Motion Detected
+[21:40]: Face Detected: Charles
+[21:40]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:40]: Motion Detected
+[21:40]: Face Detected: Charles
+[21:41]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:41]: Motion Detected
+[21:41]: Face Detected: Charles
+[21:41]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:41]: Face Detected: Unknown
+[21:41]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:41]: Motion Detected
+[21:41]: Face Detected: Charles
+[21:41]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:41]: Face Detected: Unknown
+[21:41]: Motion Detected
+[21:41]: Face Detected: Charles
+[21:41]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:41]: Face Detected: Unknown
+[21:41]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:41]: Motion Detected
+[21:41]: Face Detected: Charles
+[21:41]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:41]: Motion Detected
+[21:41]: Face Detected: Charles
+[21:41]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:41]: Face Detected: Unknown
+[21:41]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:41]: Motion Detected
+[21:42]: Face Detected: Charles
+[21:42]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:42]: Face Detected: Unknown
+[21:42]: Motion Detected
+[21:42]: Face Detected: Charles
+[21:42]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:42]: Motion Detected
+[21:42]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:42]: Face Detected: Unknown
+[21:42]: Motion Detected
+[21:42]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:42]: Face Detected: Charles
+[21:42]: Motion Detected
+[21:42]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:42]: Face Detected: Unknown
+[21:42]: Face Detected: Charles
+[21:42]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:42]: Motion Detected
+[21:42]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:42]: Face Detected: Charles
+[21:42]: Motion Detected
+[21:43]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:43]: Face Detected: Charles
+[21:43]: Motion Detected
+[21:43]: Face Detected: Unknown
+[21:43]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:43]: Face Detected: Charles
+[21:43]: Motion Detected
+[21:43]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:43]: Face Detected: Unknown
+[21:43]: Face Detected: Charles
+[21:43]: Motion Detected
+[21:43]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:43]: Face Detected: Charles
+[21:43]: Motion Detected
+[21:43]: Face Detected: Unknown
+[21:43]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:43]: Face Detected: Charles
+[21:43]: Motion Detected
+[21:43]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:43]: Face Detected: Unknown
+[21:43]: Face Detected: Charles
+[21:44]: Motion Detected
+[21:44]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:44]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:44]: Face Detected: Unknown
+[21:44]: Face Detected: Charles
+[21:44]: Motion Detected
+[21:44]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:44]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:44]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:44]: Face Detected: Charles
+[21:44]: Face Detected: Unknown
+[21:44]: Motion Detected
+[21:44]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:44]: Face Detected: Charles
+[21:44]: Face Detected: Unknown
+[21:44]: Motion Detected
+[21:44]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:44]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:44]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:44]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:44]: Motion Detected
+[21:44]: Face Detected: Unknown
+[21:44]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:44]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:44]: Face Detected: Charles
+[21:44]: Motion Detected
+[21:44]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:44]: Face Detected: Unknown
+[21:44]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:44]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:44]: Face Detected: Charles
+[21:44]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:45]: Motion Detected
+[21:45]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:45]: Face Detected: Unknown
+[21:45]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:45]: Face Detected: Charles
+[21:45]: Motion Detected
+[21:45]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:45]: Face Detected: Charles
+[21:45]: Motion Detected
+[21:45]: Face Detected: Unknown
+[21:45]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:45]: Face Detected: Charles
+[21:45]: Motion Detected
+[21:45]: Face Detected: Unknown
+[21:45]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:45]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:45]: Face Detected: Charles
+[21:45]: Motion Detected
+[21:45]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:45]: Face Detected: Unknown
+[21:45]: Face Detected: Charles
+[21:45]: Motion Detected
+[21:45]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:45]: Face Detected: Charles
+[21:46]: Motion Detected
+[21:46]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:46]: Face Detected: Charles
+[21:46]: Motion Detected
+[21:46]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:46]: Face Detected: Charles
+[21:46]: Motion Detected
+[21:46]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:46]: Face Detected: Charles
+[21:46]: Motion Detected
+[21:46]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:46]: Face Detected: Charles
+[21:46]: Motion Detected
+[21:46]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:46]: Face Detected: Unknown
+[21:46]: Face Detected: Charles
+[21:46]: Motion Detected
+[21:46]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:46]: Face Detected: Charles
+[21:47]: Motion Detected
+[21:47]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:47]: Face Detected: Unknown
+[21:47]: Face Detected: Charles
+[21:47]: Motion Detected
+[21:47]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:47]: Face Detected: Charles
+[21:47]: Motion Detected
+[21:47]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:47]: Face Detected: Charles
+[21:47]: Motion Detected
+[21:47]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:47]: Face Detected: Unknown
+[21:47]: Face Detected: Charles
+[21:47]: Motion Detected
+[21:47]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:47]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:47]: Face Detected: Charles
+[21:47]: Motion Detected
+[21:47]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:48]: Face Detected: Charles
+[21:48]: Motion Detected
+[21:48]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:48]: Face Detected: Unknown
+[21:48]: Face Detected: Charles
+[21:48]: Motion Detected
+[21:48]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:48]: Face Detected: Charles
+[21:48]: Motion Detected
+[21:48]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:48]: Face Detected: Unknown
+[21:48]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:48]: Face Detected: Charles
+[21:48]: Motion Detected
+[21:48]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:48]: Face Detected: Unknown
+[21:48]: Face Detected: Charles
+[21:48]: Motion Detected
+[21:48]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:48]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:48]: Face Detected: Unknown
+[21:48]: Face Detected: Charles
+[21:48]: Motion Detected
+[21:48]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:48]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:48]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:49]: Face Detected: Charles
+[21:49]: Motion Detected
+[21:49]: Face Detected: Unknown
+[21:49]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:49]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:49]: Face Detected: Charles
+[21:49]: Motion Detected
+[21:49]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:49]: Face Detected: Unknown
+[21:49]: Face Detected: Charles
+[21:49]: Motion Detected
+[21:49]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:49]: Face Detected: Unknown
+[21:49]: Face Detected: Charles
+[21:49]: Motion Detected
+[21:49]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:49]: Face Detected: Charles
+[21:49]: Motion Detected
+[21:49]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:49]: Face Detected: Unknown
+[21:49]: Face Detected: Charles
+[21:49]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:49]: Motion Detected
+[21:49]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:49]: Face Detected: Unknown
+[21:49]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:50]: Motion Detected
+[21:50]: Face Detected: Charles
+[21:50]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:50]: Motion Detected
+[21:50]: Face Detected: Charles
+[21:50]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:50]: Motion Detected
+[21:50]: Face Detected: Charles
+[21:50]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:50]: Motion Detected
+[21:50]: Face Detected: Charles
+[21:50]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:50]: Motion Detected
+[21:50]: Face Detected: Charles
+[21:50]: Face Detected: Unknown
+[21:50]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:50]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:50]: Motion Detected
+[21:50]: Face Detected: Charles
+[21:50]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:50]: Face Detected: Unknown
+[21:51]: Motion Detected
+[21:51]: Face Detected: Charles
+[21:51]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:51]: Motion Detected
+[21:51]: Face Detected: Charles
+[21:51]: Motion Detected
+[21:51]: Face Detected: Charles
+[21:51]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:51]: Motion Detected
+[21:51]: Face Detected: Charles
+[21:51]: Face Detected: Unknown
+[21:51]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:51]: Motion Detected
+[21:51]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:51]: Face Detected: Charles
+[21:51]: Motion Detected
+[21:51]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:51]: Face Detected: Charles
+[21:52]: Motion Detected
+[21:52]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:52]: Face Detected: Charles
+[21:52]: Motion Detected
+[21:52]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:52]: Face Detected: Unknown
+[21:52]: Face Detected: Charles
+[21:52]: Motion Detected
+[21:52]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:52]: Face Detected: Unknown
+[21:52]: Motion Detected
+[21:52]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:52]: Face Detected: Charles
+[21:52]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:52]: Motion Detected
+[21:52]: Face Detected: Charles
+[21:52]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:52]: Face Detected: Unknown
+[21:53]: Motion Detected
+[21:53]: Face Detected: Charles
+[21:53]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:53]: Motion Detected
+[21:53]: Face Detected: Charles
+[21:53]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:53]: Motion Detected
+[21:53]: Face Detected: Charles
+[21:53]: Face Detected: Unknown
+[21:53]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:53]: Motion Detected
+[21:53]: Face Detected: Charles
+[21:53]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:53]: Face Detected: Unknown
+[21:53]: Motion Detected
+[21:53]: Face Detected: Charles
+[21:53]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:53]: Face Detected: Unknown
+[21:53]: Motion Detected
+[21:53]: Face Detected: Charles
+[21:53]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:53]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:54]: Motion Detected
+[21:54]: Face Detected: Charles
+[21:54]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:54]: Motion Detected
+[21:54]: Face Detected: Charles
+[21:54]: Face Detected: Unknown
+[21:54]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:54]: Motion Detected
+[21:54]: Face Detected: Charles
+[21:54]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:54]: Motion Detected
+[21:54]: Face Detected: Charles
+[21:54]: Face Detected: Unknown
+[21:54]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:54]: Motion Detected
+[21:54]: Face Detected: Unknown
+[21:54]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:54]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:54]: Motion Detected
+[21:54]: Face Detected: Charles
+[21:55]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:57]: Motion Detected
+[21:57]: Face Detected: Charles
+[21:57]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:57]: Motion Detected
+[21:57]: Face Detected: Charles
+[21:57]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:57]: Motion Detected
+[21:57]: Face Detected: Charles
+[21:57]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:57]: Face Detected: Unknown
+[21:57]: Motion Detected
+[21:57]: Face Detected: Charles
+[21:57]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:57]: Motion Detected
+[21:57]: Face Detected: Charles
+[21:57]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:57]: Motion Detected
+[21:57]: Face Detected: Charles
+[21:57]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:58]: Motion Detected
+[21:58]: Face Detected: Charles
+[21:58]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:58]: Motion Detected
+[21:58]: Face Detected: Charles
+[21:58]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:58]: Motion Detected
+[21:58]: Face Detected: Charles
+[21:58]: Face Detected: Unknown
+[21:58]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:58]: Motion Detected
+[21:58]: Face Detected: Charles
+[21:58]: Motion Detected
+[21:58]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:58]: Face Detected: Unknown
+[21:58]: Face Detected: Charles
+[21:58]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:58]: Motion Detected
+[21:58]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:59]: Face Detected: Charles
+[21:59]: Motion Detected
+[21:59]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:59]: Face Detected: Charles
+[21:59]: Motion Detected
+[21:59]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:59]: Face Detected: Charles
+[21:59]: Motion Detected
+[21:59]: Face Detected: Unknown
+[21:59]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:59]: Motion Detected
+[21:59]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:59]: Face Detected: Charles
+[21:59]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:59]: Motion Detected
+[21:59]: Face Detected: Charles
+[21:59]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[21:59]: Motion Detected
+[21:59]: Face Detected: Charles
+[21:59]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:00]: Motion Detected
+[22:00]: Face Detected: Charles
+[22:00]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:00]: Face Detected: Unknown
+[22:00]: Motion Detected
+[22:00]: Face Detected: Charles
+[22:00]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:00]: Face Detected: Unknown
+[22:00]: Motion Detected
+[22:00]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:00]: Face Detected: Unknown
+[22:00]: Motion Detected
+[22:00]: Face Detected: Charles
+[22:00]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:00]: Motion Detected
+[22:00]: Face Detected: Charles
+[22:00]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:00]: Face Detected: Unknown
+[22:00]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:00]: Motion Detected
+[22:00]: Face Detected: Charles
+[22:01]: Motion Detected
+[22:01]: Face Detected: Charles
+[22:01]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:01]: Face Detected: Unknown
+[22:01]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:01]: Motion Detected
+[22:01]: Face Detected: Charles
+[22:01]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:01]: Face Detected: Unknown
+[22:01]: Motion Detected
+[22:01]: Face Detected: Charles
+[22:01]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:01]: Motion Detected
+[22:01]: Face Detected: Charles
+[22:01]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:01]: Face Detected: Unknown
+[22:01]: Motion Detected
+[22:01]: Face Detected: Charles
+[22:01]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:01]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:01]: Motion Detected
+[22:01]: Face Detected: Unknown
+[22:01]: Face Detected: Charles
+[22:01]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:02]: Motion Detected
+[22:02]: Face Detected: Unknown
+[22:02]: Face Detected: Charles
+[22:02]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:02]: Motion Detected
+[22:02]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:02]: Face Detected: Unknown
+[22:02]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:02]: Face Detected: Charles
+[22:02]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:02]: Motion Detected
+[22:02]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:02]: Face Detected: Unknown
+[22:02]: Face Detected: Charles
+[22:02]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:02]: Motion Detected
+[22:02]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:02]: Face Detected: Unknown
+[22:02]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:02]: Motion Detected
+[22:02]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:02]: Face Detected: Unknown
+[22:02]: Motion Detected
+[22:02]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:02]: Face Detected: Charles
+[22:02]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:03]: Motion Detected
+[22:03]: Face Detected: Charles
+[22:03]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:03]: Motion Detected
+[22:03]: Face Detected: Charles
+[22:03]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:03]: Motion Detected
+[22:03]: Face Detected: Charles
+[22:03]: Face Detected: Unknown
+[22:03]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:03]: Motion Detected
+[22:03]: Face Detected: Charles
+[22:03]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:03]: Face Detected: Unknown
+[22:03]: Motion Detected
+[22:03]: Face Detected: Charles
+[22:03]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:03]: Motion Detected
+[22:03]: Face Detected: Unknown
+[22:03]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:03]: Face Detected: Charles
+[22:04]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:04]: Motion Detected
+[22:04]: Face Detected: Charles
+[22:04]: Email sent to Charlesadrian49@gmail.com, Cholocabontocan74@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:04]: Motion Detected
+[22:04]: Face Detected: Charles
+[22:04]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:04]: Motion Detected
+[22:04]: Face Detected: Charles
+[22:04]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:04]: Face Detected: Unknown
+[22:04]: Motion Detected
+[22:04]: Face Detected: Charles
+[22:04]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:04]: Motion Detected
+[22:04]: Face Detected: Charles
+[22:04]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, admin@gmail.com with image attachment.
+[22:04]: Face Detected: Unknown
+[22:04]: Motion Detected
+[22:04]: Face Detected: Charles
+[22:05]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, admin@gmail.com, test@gmail.com with image attachment.
+[22:05]: Motion Detected
+[22:05]: Face Detected: Charles
+[22:05]: Motion Detected
+[22:05]: Face Detected: Unknown
+[22:05]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, admin@gmail.com, test@gmail.com with image attachment.
+[22:05]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, admin@gmail.com, test@gmail.com, Cholocabontocan74@gmail.com with image attachment.
+[22:05]: Face Detected: Charles
+[22:05]: Motion Detected
+[22:05]: Face Detected: Unknown
+[22:05]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, admin@gmail.com, test@gmail.com, Cholocabontocan74@gmail.com, anonuevo.harry.s@gmail.com with image attachment.
+[22:05]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, admin@gmail.com, test@gmail.com, Cholocabontocan74@gmail.com, anonuevo.harry.s@gmail.com with image attachment.
+[22:05]: Face Detected: Charles
+[22:05]: Motion Detected
+[22:05]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, admin@gmail.com, test@gmail.com, Cholocabontocan74@gmail.com, anonuevo.harry.s@gmail.com with image attachment.
+[22:05]: Face Detected: Charles
+[22:05]: Motion Detected
+[22:05]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, admin@gmail.com, test@gmail.com, Cholocabontocan74@gmail.com, anonuevo.harry.s@gmail.com with image attachment.
+[22:05]: Motion Detected
+[22:06]: Face Detected: Unknown
+[22:06]: Face Detected: Charles
+[22:06]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, admin@gmail.com, test@gmail.com, Cholocabontocan74@gmail.com, anonuevo.harry.s@gmail.com with image attachment.
+[22:06]: Motion Detected
+[22:06]: Face Detected: Unknown
+[22:06]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, admin@gmail.com, test@gmail.com, Cholocabontocan74@gmail.com, anonuevo.harry.s@gmail.com with image attachment.
+[22:06]: Face Detected: Charles
+[22:06]: Motion Detected
+[22:06]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, admin@gmail.com, test@gmail.com, Cholocabontocan74@gmail.com, anonuevo.harry.s@gmail.com with image attachment.
+[22:06]: Face Detected: Charles
+[22:06]: Face Detected: Unknown
+[22:06]: Motion Detected
+[22:06]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, admin@gmail.com, test@gmail.com, Cholocabontocan74@gmail.com, anonuevo.harry.s@gmail.com with image attachment.
+[22:06]: Face Detected: Charles
+[22:06]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, admin@gmail.com, test@gmail.com, Cholocabontocan74@gmail.com, anonuevo.harry.s@gmail.com with image attachment.
+[22:06]: Motion Detected
+[22:06]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, admin@gmail.com, test@gmail.com, Cholocabontocan74@gmail.com, anonuevo.harry.s@gmail.com with image attachment.
+[22:06]: Face Detected: Unknown
+[22:06]: Motion Detected
+[22:06]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, admin@gmail.com, test@gmail.com, Cholocabontocan74@gmail.com, anonuevo.harry.s@gmail.com with image attachment.
+[22:06]: Motion Detected
+[22:07]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, admin@gmail.com, test@gmail.com, Cholocabontocan74@gmail.com, anonuevo.harry.s@gmail.com with image attachment.
+[22:07]: Motion Detected
+[22:07]: Face Detected: Charles
+[22:07]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, admin@gmail.com, test@gmail.com, Cholocabontocan74@gmail.com, anonuevo.harry.s@gmail.com with image attachment.
+[22:07]: Face Detected: Unknown
+[22:07]: Motion Detected
+[22:07]: Face Detected: Charles
+[22:07]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, admin@gmail.com, test@gmail.com, Cholocabontocan74@gmail.com, anonuevo.harry.s@gmail.com with image attachment.
+[22:07]: Motion Detected
+[22:07]: Face Detected: Charles
+[22:07]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, test@gmail.com, Cholocabontocan74@gmail.com, anonuevo.harry.s@gmail.com with image attachment.
+[22:07]: Motion Detected
+[22:07]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, test@gmail.com, Cholocabontocan74@gmail.com, anonuevo.harry.s@gmail.com with image attachment.
+[22:07]: Face Detected: Charles
+[22:07]: Motion Detected
+[22:07]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph, anonuevo.harry.s@gmail.com with image attachment.
+[22:07]: Face Detected: Charles
+[22:07]: Motion Detected
+[22:08]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:08]: Face Detected: Unknown
+[22:08]: Face Detected: Charles
+[22:08]: Motion Detected
+[22:08]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:08]: Face Detected: Unknown
+[22:08]: Face Detected: Charles
+[22:08]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph with image attachment.
+[22:10]: Motion Detected
+[22:10]: Face Detected: Charles
+[22:10]: Email sent to Charlesadrian49@gmail.com, 202110780@fit.edu.ph with image attachment.

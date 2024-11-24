@@ -1,0 +1,222 @@
+[20:03]: Trainer.yml not found, starting without pre-trained recognizer
+[20:03]: Trainer.yml not found, starting without pre-trained recognizer
+[20:07]: Trainer.yml not found, starting without pre-trained recognizer
+[20:15]: Trainer.yml not found, starting without pre-trained recognizer
+[20:15]: Trainer.yml not found, starting without pre-trained recognizer
+[20:28]: Trainer.yml not found, starting without pre-trained recognizer
+[20:28]: Trainer.yml not found, starting without pre-trained recognizer
+[20:38]: Trainer.yml not found, starting without pre-trained recognizer
+[20:39]: Trainer.yml not found, starting without pre-trained recognizer
+[20:39]: Motion Detected
+[20:39]: Motion Detected
+[20:39]: Motion Detected
+[20:39]: Motion Detected
+[20:43]: Trainer.yml not found, starting without pre-trained recognizer
+[20:43]: Trainer.yml not found, starting without pre-trained recognizer
+[20:46]: Trainer.yml not found, starting without pre-trained recognizer
+[20:46]: Trainer.yml not found, starting without pre-trained recognizer
+[20:48]: Trainer.yml not found, starting without pre-trained recognizer
+[20:48]: Trainer.yml not found, starting without pre-trained recognizer
+[20:48]: Trainer.yml not found, starting without pre-trained recognizer
+[20:51]: Trainer.yml not found, starting without pre-trained recognizer
+[20:51]: Trainer.yml not found, starting without pre-trained recognizer
+[20:51]: Motion Detected
+[20:51]: Motion Detected
+[20:51]: Motion Detected
+[20:52]: Motion Detected
+[20:52]: Motion Detected
+[20:52]: Motion Detected
+[20:52]: Motion Detected
+[20:52]: Motion Detected
+[20:52]: Motion Detected
+[20:53]: Motion Detected
+[20:53]: Motion Detected
+[20:53]: Motion Detected
+[20:53]: Motion Detected
+[20:53]: Motion Detected
+[20:54]: Motion Detected
+[20:54]: Trainer.yml not found, starting without pre-trained recognizer
+[20:54]: Trainer.yml not found, starting without pre-trained recognizer
+[20:54]: Motion Detected
+[20:54]: Motion Detected
+[20:54]: Motion Detected
+[20:54]: Motion Detected
+[20:54]: Motion Detected
+[20:55]: Motion Detected
+[20:55]: Motion Detected
+[20:55]: Trainer.yml not found, starting without pre-trained recognizer
+[20:55]: Trainer.yml not found, starting without pre-trained recognizer
+[20:55]: Motion Detected
+[20:55]: Motion Detected
+[20:56]: Motion Detected
+[20:56]: Motion Detected
+[20:56]: Motion Detected
+[20:56]: Motion Detected
+[20:56]: Motion Detected
+[20:57]: Motion Detected
+[20:57]: Motion Detected
+[20:57]: Motion Detected
+[20:57]: Motion Detected
+[20:57]: Trainer.yml not found, starting without pre-trained recognizer
+[20:57]: Trainer.yml not found, starting without pre-trained recognizer
+[20:57]: Motion Detected
+[20:58]: Motion Detected
+[20:58]: Motion Detected
+[20:58]: Motion Detected
+[20:58]: Motion Detected
+[20:58]: Motion Detected
+[20:58]: Motion Detected
+[20:59]: Motion Detected
+[20:59]: Motion Detected
+[20:59]: Motion Detected
+[20:59]: Motion Detected
+[21:00]: Motion Detected
+[21:00]: Motion Detected
+[21:00]: Motion Detected
+[21:00]: Trainer.yml not found, starting without pre-trained recognizer
+[21:00]: Trainer.yml not found, starting without pre-trained recognizer
+[21:00]: Trainer.yml not found, starting without pre-trained recognizer
+[21:01]: Motion Detected
+[21:01]: Motion Detected
+[21:01]: Motion Detected
+[21:01]: Motion Detected
+[21:01]: Motion Detected
+[21:01]: Motion Detected
+[21:02]: Motion Detected
+[21:02]: Motion Detected
+[21:03]: Motion Detected
+[21:03]: Motion Detected
+[21:03]: Trainer.yml not found, starting without pre-trained recognizer
+[21:03]: Trainer.yml not found, starting without pre-trained recognizer
+[21:04]: Trainer.yml not found, starting without pre-trained recognizer
+[21:04]: Trainer.yml not found, starting without pre-trained recognizer
+[21:04]: Trainer.yml not found, starting without pre-trained recognizer
+[21:04]: Motion Detected
+[21:04]: Motion Detected
+[21:04]: Motion Detected
+[21:04]: Motion Detected
+[21:04]: Motion Detected
+[21:05]: Motion Detected
+[21:05]: Motion Detected
+[21:05]: Motion Detected
+[21:05]: Motion Detected
+[21:05]: Motion Detected
+[21:06]: Motion Detected
+[21:06]: Motion Detected
+[21:06]: Motion Detected
+[21:06]: Motion Detected
+[21:06]: Motion Detected
+[21:06]: Motion Detected
+[21:42]: Trainer.yml not found, starting without pre-trained recognizer
+[21:42]: Trainer.yml not found, starting without pre-trained recognizer
+[21:42]: Motion Detected
+[21:42]: Motion Detected
+[21:42]: Motion Detected
+[21:43]: Motion Detected
+[21:43]: Motion Detected
+[21:43]: Motion Detected
+[21:43]: Motion Detected
+[21:43]: Motion Detected
+[21:43]: Motion Detected
+[21:52]: Trainer.yml not found, starting without pre-trained recognizer
+[21:52]: Trainer.yml not found, starting without pre-trained recognizer
+[21:52]: Trainer.yml not found, starting without pre-trained recognizer
+[21:52]: Motion Detected
+[21:53]: Motion Detected
+[21:53]: Motion Detected
+[21:53]: Motion Detected
+[21:53]: Motion Detected
+[21:53]: Motion Detected
+[21:54]: Motion Detected
+[21:54]: Motion Detected
+[21:54]: Motion Detected
+[21:54]: Motion Detected
+[21:56]: Trainer.yml not found, starting without pre-trained recognizer
+[21:56]: Trainer.yml not found, starting without pre-trained recognizer
+[21:56]: Motion Detected
+[21:56]: Motion Detected
+[21:56]: Motion Detected
+[21:56]: Motion Detected
+[21:57]: Motion Detected
+[21:57]: Motion Detected
+[21:57]: Motion Detected
+[21:57]: Motion Detected
+[21:57]: Trainer.yml not found, starting without pre-trained recognizer
+[21:57]: Trainer.yml not found, starting without pre-trained recognizer
+[21:57]: Motion Detected
+[21:57]: Receiver email not found in credentials file.
+[21:58]: Motion Detected
+[21:58]: Receiver email not found in credentials file.
+[21:58]: Trainer.yml not found, starting without pre-trained recognizer
+[21:58]: Trainer.yml not found, starting without pre-trained recognizer
+[21:59]: Trainer.yml not found, starting without pre-trained recognizer
+[22:02]: Trainer.yml not found, starting without pre-trained recognizer
+[22:02]: Trainer.yml not found, starting without pre-trained recognizer
+[22:02]: Motion Detected
+[22:02]: Motion Detected
+[22:03]: Motion Detected
+[22:03]: Motion Detected
+[22:03]: Motion Detected
+[22:03]: Trainer.yml not found, starting without pre-trained recognizer
+[22:08]: Trainer.yml not found, starting without pre-trained recognizer
+[22:09]: Trainer.yml not found, starting without pre-trained recognizer
+[22:09]: Trainer.yml not found, starting without pre-trained recognizer
+[22:10]: Trainer.yml not found, starting without pre-trained recognizer
+[22:38]: Motion detected. Saving video...
+[22:38]: Motion detected. Saving video...
+[22:39]: Trainer.yml not found, starting without pre-trained recognizer
+[22:46]: Trainer.yml not found, starting without pre-trained recognizer
+[22:47]: Trainer.yml not found, starting without pre-trained recognizer
+[22:54]: Trainer.yml not found, starting without pre-trained recognizer
+[22:54]: Trainer.yml not found, starting without pre-trained recognizer
+[22:54]: Motion Detected
+[22:54]: Motion Detected
+[22:54]: Motion Detected
+[22:54]: Motion Detected
+[22:54]: Motion Detected
+[22:55]: Motion Detected
+[22:55]: Motion Detected
+[22:55]: Motion Detected
+[22:55]: Motion Detected
+[22:55]: Motion Detected
+[22:56]: Trainer.yml not found, starting without pre-trained recognizer
+[22:56]: Trainer.yml not found, starting without pre-trained recognizer
+[22:56]: Motion Detected
+[22:56]: Motion Detected
+[22:56]: Motion Detected
+[22:56]: Motion Detected
+[22:56]: Motion Detected
+[22:57]: Motion Detected
+[22:57]: Motion Detected
+[22:57]: Motion Detected
+[22:57]: Motion Detected
+[22:57]: Motion Detected
+[22:57]: Motion Detected
+[22:58]: Motion Detected
+[22:58]: Motion Detected
+[22:58]: Motion Detected
+[22:58]: Motion Detected
+[22:58]: Motion Detected
+[22:59]: Trainer.yml not found, starting without pre-trained recognizer
+[22:59]: Trainer.yml not found, starting without pre-trained recognizer
+[22:59]: Motion Detected
+[22:59]: Motion Detected
+[22:59]: Motion Detected
+[22:59]: Motion Detected
+[23:00]: Motion Detected
+[23:00]: Motion Detected
+[23:00]: Motion Detected
+[23:00]: Motion Detected
+[23:01]: Motion Detected
+[23:01]: Motion Detected
+[23:01]: Motion Detected
+[23:01]: Motion Detected
+[23:01]: Motion Detected
+[23:01]: Motion Detected
+[23:02]: Motion Detected
+[23:02]: Motion Detected
+[23:02]: Motion Detected
+[23:02]: Motion Detected
+[23:02]: Motion Detected
+[23:03]: Motion Detected
+[23:03]: Motion Detected

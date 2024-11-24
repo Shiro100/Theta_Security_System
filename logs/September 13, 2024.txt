@@ -1,0 +1,82 @@
+[14:39]: Face Detected: Unknown
+[14:39]: Email sent with image attached.
+[14:39]: Face Detected: Unknown
+[14:39]: Face Detected: Unknown
+[14:39]: Email sent with image attached.
+[14:39]: Email sent with image attached.
+[14:39]: Email sent with image attached.
+[14:40]: Face Detected: Unknown
+[14:40]: Email sent with image attached.
+[14:40]: Email sent with image attached.
+[14:40]: Face Detected: Unknown
+[14:40]: Face Detected: Unknown
+[14:40]: Email sent with image attached.
+[14:40]: Email sent with image attached.
+[14:40]: Email sent with image attached.
+[14:40]: Face Detected: Unknown
+[14:40]: Email sent with image attached.
+[14:40]: Face Detected: Unknown
+[14:40]: Face Detected: Carlo
+[14:40]: Email sent with image attached.
+[14:40]: Email sent with image attached.
+[14:40]: Face Detected: Unknown
+[14:41]: Face Detected: Unknown
+[14:41]: Email sent with image attached.
+[14:41]: Email sent with image attached.
+[14:41]: Face Detected: Unknown
+[14:41]: Face Detected: Carlo
+[14:41]: Email sent with image attached.
+[14:41]: Face Detected: Unknown
+[14:41]: Face Detected: Carlo
+[14:41]: Face Detected: Unknown
+[14:41]: Face Detected: Carlo
+[14:41]: Email sent with image attached.
+[14:41]: Email sent with image attached.
+[14:41]: Face Detected: Carlo
+[14:41]: Face Detected: Unknown
+[14:42]: Face Detected: Carlo
+[14:42]: Face Detected: Carlo
+[14:42]: Face Detected: Carlo
+[14:42]: Face Detected: Unknown
+[14:42]: Face Detected: Carlo
+[14:42]: Email sent with image attached.
+[14:42]: Face Detected: Unknown
+[14:42]: Face Detected: Carlo
+[14:42]: Face Detected: Unknown
+[14:42]: Face Detected: Carlo
+[14:42]: Email sent with image attached.
+[14:43]: Face Detected: Unknown
+[14:43]: Face Detected: Carlo
+[14:43]: Face Detected: Carlo
+[14:43]: Face Detected: Unknown
+[14:43]: Email sent with image attached.
+[14:43]: Face Detected: Carlo
+[14:43]: Face Detected: Unknown
+[14:43]: Email sent with image attached.
+[14:43]: Face Detected: Carlo
+[14:43]: Face Detected: Unknown
+[14:43]: Face Detected: Carlo
+[14:43]: Email sent with image attached.
+[14:43]: Face Detected: Unknown
+[14:43]: Face Detected: Carlo
+[14:43]: Face Detected: Unknown
+[14:44]: Face Detected: Carlo
+[14:44]: Face Detected: Unknown
+[14:44]: Email sent with image attached.
+[14:44]: Email sent with image attached.
+[14:44]: Face Detected: Carlo
+[14:44]: Face Detected: Unknown
+[14:44]: Face Detected: Carlo
+[14:44]: Email sent with image attached.
+[14:44]: Face Detected: Unknown
+[14:44]: Face Detected: Carlo
+[14:44]: Face Detected: Unknown
+[14:44]: Email sent with image attached.
+[14:44]: Face Detected: Carlo
+[14:44]: Face Detected: Unknown
+[14:45]: Face Detected: Unknown
+[14:45]: Face Detected: Carlo
+[14:45]: Face Detected: Carlo
+[14:45]: Email sent with image attached.
+[14:45]: Face Detected: Unknown
+[14:45]: Face Detected: Carlo
