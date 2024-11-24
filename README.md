@@ -1,9 +1,9 @@
 # Theta Security System  
 
 **Theta Security System** is an innovative low-cost security solution developed as a college thesis project. This system combines affordability with advanced technology to provide robust and efficient security. Developed by:  
-- **Charles Adrian Cabontocan**  
-- **Carlo Jan Harry Añonuevo**  
-- **Mar-con Prince Owen Difuntorum**  
+- **Charles Adrian Cabontocan - Programmer**  
+- **Carlo Jan Harry Añonuevo - Programmer**  
+- **Mar-con Prince Owen Difuntorum - Documentation**  
 
 ## 📖 Overview  
 The Theta Security System utilizes cost-effective hardware and open-source software to address the need for affordable yet reliable security systems. Built around the **Orange Pi Zero 3**, it leverages computer vision and machine learning techniques for smart intrusion detection and facial recognition.
